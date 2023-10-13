@@ -4,24 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CapForum</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="mybulma/css/customstyle.css/customstyle.css">
   </head>
-  <script>
-  import Navbar from '@vizuaalog/bulmajs/src/plugins/navbar';
-  $(document).ready(function() {
-
-    // Check for click events on the navbar burger icon
-    $(".navbar-burger").click(function() {
-  
-        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-        $(".navbar-burger").toggleClass("is-active");
-        $(".navbar-menu").toggleClass("is-active");
-  
-    });
-  });
-  </script>
   <body>
-    <nav class="navbar" role="navigation" aria-label="main navigation" >
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
@@ -34,7 +20,7 @@
               Kategorie
             </a>
     
-            <div class="navbar-dropdown">
+            <div class="navbar-dropdown is-dark">
               <a class="navbar-item">
                 Gry
               </a>
@@ -56,15 +42,7 @@
       </div>
       </div>
     </nav>
-  <section class="section">
-    <div class="container">
-      <h1 class="title">
-        Witaj Świetowicie
-      </h1>
-      <p class="subtitle"></p>
-        My first website with <strong>Boolma</strong>
-        <p class="button">Kakas</p>
-    </div>
+   </div>
   </section>
   </body>
 </html>
