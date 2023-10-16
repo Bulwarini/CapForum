@@ -13,15 +13,16 @@
           <img src="obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
 
+
         <div class="navbar-start">
 
           <a class="navbar-item">
-            Strona Domowa
+            <strong class="is-size-4">Strona Domowa</strong>
           </a>
           <div class="navbar-item has-dropdown is-hoverable">
 
             <a class="navbar-link">
-              Kategorie
+              <strong class="is-size-4">Kategorie</strong>
             </a>
     
             <div class="navbar-dropdown is-dark">
@@ -48,22 +49,36 @@
 
           </div>
           <a class="navbar-item">
-            Informacje i Kontakt
+           Informacje i Kontakt
           </a>
         </div>
+      </div>
+      </div>
 
+      <div class="navbar-end">
+        <div class="navbar-item">
+          <div class="buttons">
+            <a class="button is-primary">
+              <strong>Zarejestruj się</strong>
+            </a>
+            <a class="button is-light">
+              Zaloguj się
+            </a>
+          </div>
+        </div>
       </div>
-      </div>
+
     </nav>
 
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Strona Główna</h1>
-        <p class="has-text-white is-size-4 ">Witaj na naszej stronie!!<br>
-          Nie ma może tutaj za wiele, ale życzymy miłego zwiedzania.<br>
+        <p class="has-text-white is-size-4 ">Witaj na naszej stronie!!<br><br>
+          Nie ma może tutaj za wiele, ale życzymy miłego zwiedzania.<br><br>
           Zapraszamy do zgłaszania wszelkich błędów w zakładce kontakt.</p>
           <p class="has-text-white is-size-1 has-text-weight-bold">Pozdrawia administracja strony!</p>
+          <p class="is is-size-1"><br></p>
         </div>
       </div>
 
