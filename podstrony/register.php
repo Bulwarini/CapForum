@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>Wydarzenia na Świecie - CapForum</title>
-    <link rel="stylesheet" href="mybulma/css/customstyle.css/customstyle.css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
-          <img src="obrazki\capforum.svg" height="150" width="150">
+          <img src="/obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
 
 
