@@ -60,10 +60,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary">
+            <a class="button is-primary" href="/podstrony/register.php">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light">
+            <a class="button is-light" href="/podstrony/login.php">
               Zaloguj się
             </a>
           </div>

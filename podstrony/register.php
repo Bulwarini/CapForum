@@ -10,7 +10,7 @@
   <body>
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
-          <img src="/obrazki\capforum.svg" height="150" width="150">
+          <img src="/obrazki/capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
 
 
@@ -61,7 +61,7 @@
             <a class="button is-primary">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light">
+            <a class="button is-light" href="/podstrony/login.php">
               Zaloguj się
             </a>
           </div>
@@ -81,6 +81,22 @@
   <label class="label">Email</label>
   <div class="control">
     <input class="input" type="email" placeholder="e.g. alexsmith@gmail.com">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Hasło</label>
+  <div class="control">
+    <input class="input" type="password" placeholder="Hasło">
+  </div>
+</div>
+
+<div class="field is-grouped">
+  <div class="control">
+    <button class="button is-link">Załóż konto</button>
+  </div>
+  <div class="control">
+    <button class="button is-link is-light">Anuluj</button>
   </div>
 </div>
 

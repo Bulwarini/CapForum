@@ -4,22 +4,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
-    <title>CapForum</title>
+    <title>Wydarzenia na Świecie - CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
-          <img src="\obrazki\capforum.svg" height="150" width="150">
+          <img src="/obrazki/capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
 
 
         <div class="navbar-start">
 
-          <a class="navbar-item" href="/index.php">
-            <strong class="is-size-4">Strona Domowa
-
-            </strong>
+          <a class="navbar-item">
+            <strong class="is-size-4">Strona Domowa</strong>
           </a>
           <div class="navbar-item has-dropdown is-hoverable">
 
@@ -40,7 +38,7 @@
                 Software
               </a>
 
-              <a class="navbar-item" href="/podstrony/wydswiat.php">
+              <a class="navbar-item">
                 Wydarzenia na świecie
               </a>
               
@@ -60,7 +58,7 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary">
+            <a class="button is-primary" href="/podstrony/register.php">
               <strong>Zarejestruj się</strong>
             </a>
             <a class="button is-light">
@@ -72,11 +70,25 @@
 
     </nav>
 
+    <div class="field">
+  <label class="label">Email</label>
+  <div class="control">
+    <input class="input" type="email" placeholder="e.g. alexsmith@gmail.com">
+  </div>
+</div>
 
+<div class="field">
+  <label class="label">Hasło</label>
+  <div class="control">
+    <input class="input" type="password" placeholder="Hasło">
+  </div>
+</div>
 
-
-
-  </body>
-
-
-</html>
+<div class="field is-grouped">
+  <div class="control">
+    <button class="button is-link">Zaloguj się</button>
+  </div>
+  <div class="control">
+    <button class="button is-link is-light">Anuluj</button>
+  </div>
+</div>
