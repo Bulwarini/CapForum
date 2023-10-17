@@ -40,7 +40,7 @@
                 Software
               </a>
 
-              <a class="navbar-item" href="wydswiat">
+              <a class="navbar-item" href="/kategorie/wydswiat">
                 Wydarzenia na świecie
               </a>
               
@@ -60,10 +60,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary" href="register">
+            <a class="button is-primary" href="/konto/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light" href="login">
+            <a class="button is-light" href="/konto/login">
               Zaloguj się
             </a>
           </div>
