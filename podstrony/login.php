@@ -16,7 +16,7 @@
 
         <div class="navbar-start">
 
-          <a class="navbar-item">
+          <a class="navbar-item" href="/index.php>
             <strong class="is-size-4">Strona Domowa</strong>
           </a>
           <div class="navbar-item has-dropdown is-hoverable">
@@ -38,7 +38,7 @@
                 Software
               </a>
 
-              <a class="navbar-item">
+              <a class="navbar-item" href="/podstrony/wydswiat.php">
                 Wydarzenia na świecie
               </a>
               
