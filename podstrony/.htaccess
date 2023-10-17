@@ -14,5 +14,10 @@
   RewriteCond %{REQUEST_FILENAME}\.php -f
   RewriteRule ^([^\.]+)/$ $1.php 
 
+  RewriteCond %{REQUEST_URI} !^/podstrona/ [NC]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ podstrona/$1 [L]
+
 # End of Apache Rewrite Rules
  </IfModule>
