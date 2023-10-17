@@ -1,18 +1,4 @@
-Options +FollowSymLinks -MultiViews
-RewriteEngine On
-RewriteBase /podstrony/
-
-RewriteCond %{REQUEST_METHOD} !POST
-RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
-RewriteRule ^ /%1 [R=302,NE,L]
-
-RewriteCond %{REQUEST_METHOD} !POST
-RewriteCond %{THE_REQUEST} /index\.php [NC]
-RewriteRule ^(.*)index\.php$ /$1 [L,R=302,NC,NE]
-
-RewriteCond %{REQUEST_FILENAME} -d [OR]
-RewriteCond %{REQUEST_FILENAME} -f
-RewriteRule ^ - [L]
-
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.+?)/?$ $1.php [L]
+RewriteRule ^(.+)$ $1.php [L,QSA]
