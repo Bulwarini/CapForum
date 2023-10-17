@@ -32,7 +32,7 @@
                 Gry
               </a>
 
-              <a class="navbar-item" href="/index.php">
+              <a class="navbar-item">
                 Nowinki Technologiczne
               </a>
 
