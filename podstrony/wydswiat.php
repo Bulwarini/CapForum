@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
-    <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
+    
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
@@ -16,7 +17,7 @@
 
         <div class="navbar-start">
 
-          <a class="navbar-item" href="/index.php">
+          <a class="navbar-item" href="/">
             <strong class="is-size-4">Strona Domowa
 
             </strong>
@@ -40,7 +41,7 @@
                 Software
               </a>
 
-              <a class="navbar-item" href="/podstrony/wydswiat.php">
+              <a class="navbar-item" href="/podstrony/wydswiat">
                 Wydarzenia na świecie
               </a>
               
@@ -60,10 +61,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary">
+            <a class="button is-primary" href="/podstrony/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light">
+            <a class="button is-light" href="/podstrony/login">
               Zaloguj się
             </a>
           </div>

@@ -16,7 +16,7 @@
 
         <div class="navbar-start">
 
-          <a class="navbar-item">
+          <a class="navbar-item" href="/">
             <strong class="is-size-4">Strona Domowa
 
             </strong>
@@ -40,7 +40,7 @@
                 Software
               </a>
 
-              <a class="navbar-item" href="/podstrony/wydswiat.php">
+              <a class="navbar-item" href="/podstrony/wydswiat">
                 Wydarzenia na świecie
               </a>
               
@@ -60,10 +60,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary" href="/podstrony/register.php">
+            <a class="button is-primary" href="/podstrony/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light" href="/podstrony/login.php">
+            <a class="button is-light" href="/podstrony/login">
               Zaloguj się
             </a>
           </div>
