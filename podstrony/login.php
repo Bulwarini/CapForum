@@ -73,7 +73,7 @@
     <div class="field">
   <label class="label">Email</label>
   <div class="control">
-    <input class="input" type="email" placeholder="e.g. alexsmith@gmail.com">
+    <input class="input" type="email" placeholder="Email">
   </div>
 </div>
 
@@ -92,3 +92,6 @@
     <button class="button is-link is-light">Anuluj</button>
   </div>
 </div>
+
+    </body>
+</html>
