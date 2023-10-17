@@ -16,7 +16,7 @@
 
         <div class="navbar-start">
 
-          <a class="navbar-item" href="/index.php>
+          <a class="navbar-item" href="/index.php">
             <strong class="is-size-4">Strona Domowa</strong>
           </a>
           <div class="navbar-item has-dropdown is-hoverable">
