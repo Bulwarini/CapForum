@@ -4,20 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
-    <title>Wydarzenia na Świecie - CapForum</title>
-    <link rel="stylesheet" href="mybulma/css/customstyle.css/customstyle.css">
+    <title>CapForum</title>
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
-          <img src="obrazki\capforum.svg" height="150" width="150">
+          <img src="\obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
 
 
         <div class="navbar-start">
 
-          <a class="navbar-item">
-            <strong class="is-size-4">Strona Domowa</strong>
+          <a class="navbar-item" href="/index.php">
+            <strong class="is-size-4">Strona Domowa
+
+            </strong>
           </a>
           <div class="navbar-item has-dropdown is-hoverable">
 
@@ -38,7 +40,7 @@
                 Software
               </a>
 
-              <a class="navbar-item">
+              <a class="navbar-item" href="/podstrony/wydswiat.php">
                 Wydarzenia na świecie
               </a>
               
@@ -69,7 +71,6 @@
       </div>
 
     </nav>
-
 
 
 
