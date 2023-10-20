@@ -28,15 +28,15 @@
             </a>
     
             <div class="navbar-dropdown is-dark">
-              <a class="navbar-item">
+              <a class="navbar-item" href="podstrony/kategorie/gry">
                 Gry
               </a>
 
-              <a class="navbar-item">
+              <a class="navbar-item" href="podstrony/kategorie/nowinkitechno">
                 Nowinki Technologiczne
               </a>
 
-              <a class="navbar-item">
+              <a class="navbar-item" href="podstrony/kategorie/software">
                 Software
               </a>
 
@@ -44,13 +44,13 @@
                 Wydarzenia na świecie
               </a>
               
-              <a class="navbar-item">
+              <a class="navbar-item" href="podstrony/kategorie/poradniki">
                 Poradniki
               </a>
             </div>
 
           </div>
-          <a class="navbar-item">
+          <a class="navbar-item" href="podstrony/kategorie/infoikontakt">
            Informacje i Kontakt
           </a>
         </div>
@@ -60,10 +60,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary" href="/konto/register">
+            <a class="button is-primary" href="podstrony/konto/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light" href="/konto/login">
+            <a class="button is-light" href="podstrony/konto/login">
               Zaloguj się
             </a>
           </div>
