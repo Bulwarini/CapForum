@@ -40,7 +40,7 @@
                 Software
               </a>
 
-              <a class="navbar-item" href="podstrony/kategorie/wydswiat.php">
+              <a class="navbar-item" href="podstrony/kategorie/wydswiat">
                 Wydarzenia na świecie
               </a>
               
