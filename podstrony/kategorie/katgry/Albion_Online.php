@@ -80,7 +80,7 @@
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
         <p class="has-text-white is-size- has-text-weight-bold">Albion Online jest sandboksowym MMORPG. Oznacza to, że większość wydarzeń w świecie gry oraz wirtualną ekonomię napędzają działania samych graczy.</p><br>
         <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
           <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
           <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
