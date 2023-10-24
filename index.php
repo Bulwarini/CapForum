@@ -64,7 +64,7 @@
             <a class="button is-primary" href="/podstrony/konto/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light" href="/podstrony/konto/login">
+            <a class="button is-light" href="/podstrony/konto/login.php">
               Zaloguj się
             </a>
           </div>
