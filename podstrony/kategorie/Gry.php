@@ -77,7 +77,7 @@
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Gry</h1>
-        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/gry/Albion_Online">Albion online</a>
+        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katgry/Albion_Online">Albion online</a>
 
         </div>
           <p class="is is-size-1"><br></p>
