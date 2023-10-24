@@ -8,11 +8,12 @@
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
+
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
-      <div id="navbarBasicExample" class="navbar-menu">
-    <script>
+        </div>
+        <script>
       document.addEventListener('DOMContentLoaded', () => {
 
 // Get all "navbar-burger" elements
@@ -35,68 +36,87 @@ $navbarBurgers.forEach( el => {
 
 });
     </script>
+   
 
-      
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-
-
-        <div class="navbar-start">
-
-          <a class="navbar-item" href="/">
-            <strong class="is-size-4">Strona Domowa
-
-            </strong>
-          </a>
-          <div class="navbar-item has-dropdown is-hoverable">
-
-            <a class="navbar-link">
-              <strong class="is-size-4">Kategorie</strong>
-            </a>
-    
-            <div class="navbar-dropdown is-dark">
-              <a class="navbar-item" href="/podstrony/kategorie/gry">
-                Gry
-              </a>
-
-              <a class="navbar-item" href="/podstrony/kategorie/nowinkitechno">
-                Nowinki Technologiczne
-              </a>
-
-              <a class="navbar-item" href="/podstrony/kategorie/software">
-                Software
-              </a>
-
-              <a class="navbar-item" href="/podstrony/kategorie/wydswiat">
-                Wydarzenia na świecie
-              </a>
-              
-              <a class="navbar-item" href="/podstrony/kategorie/poradniki">
-                Poradniki
-              </a>
-            </div>
-
-          </div>
-          <a class="navbar-item" href="/podstrony/kategorie/infoikontakt">
-           Informacje i Kontakt
-          </a>
-        </div>
-      </div>
-      </div>
+      <div class="contrainer is-flex is-hidden-desktop">
 
       <div class="navbar-end">
-        <div class="navbar-item">
-          <div class="buttons">
-            <a class="button is-primary" href="/podstrony/konto/register">
+        <div class="navbar-item is-flex">
+
+          <div class="buttons is-marginless is-justify-items-center">
+            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/podstrony/konto/login">
               Zaloguj się
             </a>
-          </div>
+            </div>
+        </div>
+      </div>
+
+      <div class="is-flex" style="right:0;position:absolute;">
+          <a role="button" class="navbar-burger is-right" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="false"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+          </a>
+        </div>  
+
+      </div>
+      <div id="navbarBasicExample" class="navbar-menu has-background-primary">
+
+<div class="navbar-start">
+
+  <a class="navbar-item" href="/">
+    <strong class="is-size-4">Strona Domowa
+
+    </strong>
+  </a>
+  <div class="navbar-item has-dropdown is-hoverable">
+
+    <a class="navbar-link">
+      <strong class="is-size-4">Kategorie</strong>
+    </a>
+
+    <div class="navbar-dropdown is-dark">
+      <a class="navbar-item" href="/podstrony/kategorie/gry">
+        Gry
+      </a>
+
+      <a class="navbar-item" href="/podstrony/kategorie/nowinkitechno">
+        Nowinki Technologiczne
+      </a>
+
+      <a class="navbar-item" href="/podstrony/kategorie/software">
+        Software
+      </a>
+
+      <a class="navbar-item" href="/podstrony/kategorie/wydswiat">
+        Wydarzenia na świecie
+      </a>
+      
+      <a class="navbar-item" href="/podstrony/kategorie/poradniki">
+        Poradniki
+      </a>
+    </div>
+
+  </div>
+  <a class="navbar-item" href="/podstrony/kategorie/infoikontakt">
+   Informacje i Kontakt
+  </a>
+</div>
+</div>
+<div class="navbar-end is-hidden-mobile">
+        <div class="navbar-item is-flex">
+
+          <div class="buttons is-marginless is-justify-items-center">
+            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+              <strong>Zarejestruj się</strong>
+            </a>
+            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+              Zaloguj się
+            </a>
+            </div>
         </div>
       </div>
 
