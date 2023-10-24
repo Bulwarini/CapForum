@@ -8,11 +8,40 @@
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
-    
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
       <div id="navbarBasicExample" class="navbar-menu">
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+
+// Get all "navbar-burger" elements
+const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+// Add a click event on each of them
+$navbarBurgers.forEach( el => {
+  el.addEventListener('click', () => {
+
+    // Get the target from the "data-target" attribute
+    const target = el.dataset.target;
+    const $target = document.getElementById(target);
+
+    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+    el.classList.toggle('is-active');
+    $target.classList.toggle('is-active');
+
+  });
+});
+
+});
+    </script>
+
+      
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
 
 
         <div class="navbar-start">
