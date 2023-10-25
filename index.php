@@ -38,7 +38,7 @@ $navbarBurgers.forEach( el => {
     </script>
    
 
-      <div class="contrainer is-flex is-hidden-desktop is-hidden-tablet">
+      <div class="contrainer is-flex is-hidden-desktop">
 
       <div class="navbar-end">
         <div class="navbar-item is-flex">
@@ -106,7 +106,7 @@ $navbarBurgers.forEach( el => {
   </a>
 </div>
 </div>
-<div class="navbar-end is-hidden-mobile">
+<div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
