@@ -150,7 +150,8 @@
             <div class="is section has-text-white">Źródła: 
               <a href="https://www.nasa.gov/solar-system/nasas-webb-finds-carbon-source-on-surface-of-jupiters-moon-europa/">https://www.nasa.gov/solar-system/nasas-webb-finds-carbon-source-on-surface-of-jupiters-moon-europa/;</a><br>
               <a href="https://webbtelescope.org/contents/media/images/2023/113/01H69ATHSGQBVKCQWVGSFPES3D"> https://webbtelescope.org/contents/media/images/2023/113/01H69ATHSGQBVKCQWVGSFPES3D;</a><br>
-              <a href="https://pl.wikipedia.org/wiki/Kosmiczny_Teleskop_Jamesa_Webba">https://pl.wikipedia.org/wiki/Kosmiczny_Teleskop_Jamesa_Webba </a><br> 
+              <a href="https://pl.wikipedia.org/wiki/Kosmiczny_Teleskop_Jamesa_Webba">https://pl.wikipedia.org/wiki/Kosmiczny_Teleskop_Jamesa_Webba </a><br><br>
+              <p class="has-text-white is-size-4 is-italic">Autor: Igor Rogojsza </p>
             </div>
 
 
