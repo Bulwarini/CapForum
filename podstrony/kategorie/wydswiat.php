@@ -121,7 +121,19 @@ $navbarBurgers.forEach( el => {
       </div>
 
     </nav>
+    <div class="container" style="align-items: center;">
+      <div class="is section is-large">
+        <div class="box has-background-black-ter is-rounded is-outlined">
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Wydarzenia na świecie</h1>
+        <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katwyd/JWST_Europa.php"><figure class="image is-128x128"><img src="/obrazki/jwst/Europa-moon.png">
+      </figure></a>
+      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Europa.php">Kosmiczny Teleskop Jamesa Webba wykrywa źródło węgla na powierzchni księżyca Jowisza, Europy</a></div>
 
+        </div>
+        </div>
+      </div>
+
+    </div>
 
 
 
