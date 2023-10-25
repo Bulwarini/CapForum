@@ -9,7 +9,7 @@
   </head>
   <body>
 
-    <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
         </div>
@@ -38,7 +38,7 @@ $navbarBurgers.forEach( el => {
     </script>
    
 
-      <div class="contrainer is-flex is-hidden-desktop">
+      <div class="contrainer is-flex is-hidden-desktop is-hidden-tablet">
 
       <div class="navbar-end">
         <div class="navbar-item is-flex">

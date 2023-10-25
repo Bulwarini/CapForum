@@ -38,7 +38,7 @@ $navbarBurgers.forEach( el => {
     </script>
    
 
-      <div class="contrainer is-flex is-hidden-desktop">
+      <div class="contrainer is-flex is-hidden-desktop is-hidden-tablet">
 
       <div class="navbar-end">
         <div class="navbar-item is-flex">
