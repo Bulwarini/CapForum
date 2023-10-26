@@ -131,7 +131,48 @@ $navbarBurgers.forEach( el => {
         <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria"></a>
 
         </div>
-          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-1"></p><br>
+          <img src="\obrazki\Terraria\TERRARIA.jpg" height="" width="900">
+          <p class="has-text-white is-size-4">ludzie włączają Terrarię i nie wiedzą o co chodzi. Domyślam się, że taka sytuacja zdarza się częściej, po tym jak twórca przypomniał światu o istnieniu tej wspaniałej gierki, wypuszczając znienacka ogromną aktualizację. Wieść ta zabolała mnie na tyle mocno, że postanowiłem choć trochę przyczynić się do poprawy tej niepokojącej sytuacji, pisząc ten mini-poradnik.</p><br>
+          <p class="has-text-white is-size-4">Młody terrarysto, jak już zapewne wiesz, Terraria jest grą typu sandbox. Oznacza to, że nie masz narzuconego konkretnego celu, i to, czy zajmiesz się eksploracją świata, czy też budowaniem niesamowitych konstrukcji zależy tylko od ciebie. Problem w tym, że aby w pełni móc docenić swobodę płynącą z rozgrywki, powinieneś wiedzieć, co w ogóle w grze można ciekawego robić – a Terraria nie kwapi się do pomocy graczowi w tym temacie i poza zdawkowymi hasłami wygłaszanymi przez NPC-ów ciężko o jakieś konkretne porady. Przyznam że sam na początku cisnąłem grę w kąt przytłoczony nadmiarem swobody (wiem brzmi absurdalnie) i gdyby nie moje zacięcie do czytania internetowych poradników, nie miałbym dziś 150h na liczniku.</p><br>
+          <p class="has-text-white is-size-1"></p><br>
+          <p class="has-text-white is-size-4"></p><br>
+          <p class="has-text-white is-size-2">Wszystko co musisz wiedzieć o King Slime'ie</p><br>
+          <p class="has-text-white is-size-4">Każdy boss w grze daje osiągnięcie za jego zabicie... ale jak to zrobić?</p><br>
+          <p class="has-text-white is-size-2">Przygotowanie i przywołanie</p><br>
+          <p class="has-text-white is-size-4">King Slime jest najsłabyszym bossem w grze Terraria, jednakże początkującym może sprawić pewien problem. Król szlamu może zostać przyzwany przy pomocy przedmiotu przywołującego go wytwarzanego w demon lub crimson altarze, znajdującym się w podziemiach odpowiadającego im biomu. Do wytworzenia przedmiotu przywoływania potrzebna będzie korona (Wytwarzana z pięciu sztabek platyny lub złota oraz rubiny) i dwudziestu sztuk żelu. Wytworzony tak przedmiot po użyciu przyzwie bossa. Inną opcją na wezwanie wroga, jest zabicie stu pięćdziesięciu slime'ów w czasie trwania deszczu szlamów.
+Poradnik ten celowany jest w większej mierze do początkujących graczy, dlatego zamiast skupiać się na konkretnych klasach, podam najzwyczajniej (moim zdaniem) najłatwiejszy sposób na zabicie tego żelka. Dobrym przygotowaniem do walki z nim, byłoby coś koło dwustu punktów zdrowia, hurtowe ilości granatów i dość długa, płaska przestrzeń.
+By zdobyć granaty na twój świat musi wprowadzić się specjalny npc sprzedający materiały wybuchowe, przyjdzie do jednego z wolnych domów, jeżeli masz jakiekolwiek materiały wybuchowe w ekwipunku (Na początku gry są to bomby, granaty, dynamit) które można zdobyć w skrzyniach znajdujących się w podziemiach. Nie są one specjalnie drogie nawet jak na początek gry, więc kupno ich nie powinno sprawiać wam problemu.
+Jeżeli chcecie możecie przygotować także jakąkolwiek zbroję oraz kilka potionów (Np. leczenia i iron skin potion), ale nie jest to wymagane. Buty jak np. Hermes Boots mogą być przydatne.</p><br>
+<p class="has-text-white is-size-4">Nie jest to poradnik pt. “jak przeżyć pierwszą noc”, bo tego powstało już naprawdę sporo. Poniżej znajdziesz kilka subiektywnie wybranych elementów gry, na które moim zdaniem warto zwrócić uwagę, a o których istnieniu mogłeś nie wiedzieć. No to jedziemy.</p><br>
+<p class="has-text-white is-size-2">Rozmiar świata</p><br>
+<p class="has-text-white is-size-2"></p><br>
+
+
+<div class="dropdown is-hoverable">
+  <div class="dropdown-trigger">
+    <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+      <span>Hover me</span>
+      <span class="icon is-small">
+        <i class="fas fa-angle-down" aria-hidden="true"></i>
+      </span>
+    </button>
+  </div>
+  <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+    <div class="dropdown-content">
+      <div class="dropdown-item">
+        <p>You can insert <strong>any type of content</strong> within the dropdown menu.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<p class="has-text-white is-size-1"></p><br>
+          <p class="has-text-white is-size-1"></p><br>
+          <p class="has-text-white is-size-1"></p><br>
+          <p class="has-text-white is-size-1"></p><br>  
         </div>
       </div>
 
