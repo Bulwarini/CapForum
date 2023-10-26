@@ -158,7 +158,7 @@ $navbarBurgers.forEach( el => {
           <p class="has-text-white is-size-4">Rozpoczęcie eksploracji od razu od świata „Large” może brzmi kusząco, ale uwierz mi, na początku nawet świat „Small” będzie wydawał się ogromny. Dlatego polecam trzymanie swoich pionierskich ambicji na wodzy i start od małego świata. Swoją postać razem z całym majdanem możesz przenosić dowolnie do każdego nowostworzonego świata, więc naprawdę nie ma ciśnienia, aby od razu rzucać się na głęboką wodę.</p><br>
           <p class="has-text-white is-size-2">Pomoc przy tworzeniu przedmiotów</p><br>
           <p class="has-text-white is-size-4">Aby wyprawa do trudniejszych obszarów świata była w ogóle możliwa, będziesz potrzebował lepszego oręża niż startowe. I tu pojawia się główny zarzut wobec Terrarii – skąd mam wiedzieć co w ogóle mogę wytworzyć? Otóż z pomocą przychodzi Pan Przewodnik – pierwszy NPC, wraz z którym rozpoczynasz grę. Nie bój się pokazywać mu przedmiotów – nawet tak banalnych jak kawałek drewna – o ile mają w tooltipie słowo “Material”.</p><br>
-          <img src="\obrazki\Terraria\guide.png" height="" width="100rem">
+          <figure><img src="\obrazki\Terraria\guide.png" height="" width="100rem"></figure>
           <p class="has-text-white is-size-2">Wszystko co musisz wiedzieć o King Slime'ie</p><br>
           <p class="has-text-white is-size-4">Każdy boss w grze daje osiągnięcie za jego zabicie... ale jak to zrobić?</p><br>
           <img src="\obrazki\Terraria\KSlime.png" height="800rem" width="350rem">
