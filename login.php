@@ -1,39 +1,37 @@
 <?php
 session_start();
 
-  include("/podstrony/konto/connection.php");
-  include("/podstrony/konto/function.php");
+include("connection.php");
+include("function.php");
 
-  
 
-  if($_SERVER['REQUEST_METHOD'] == "POST")
+
+if($_SERVER['REQUEST_METHOD'] == "POST")
+{
+
+  //coś zostało zapostowane
+  $user_name = $_POST['user_name'];
+  $password = $_POST['password'];
+
+  if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
   {
 
-    //coś zostało zapostowane
-    $user_name = $_POST['user_name'];
-    $password = $_POST['password'];
-
-    if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
-    {
-
-      //zapisz do bazy danych
-      $user_id = random_num(20)
-      $query = "insert into users (user_id,user_name,password) values ('$user_id','$user_name','$password')";
+    //zapisz do bazy danych
+    $user_id = random_num(20)
+    $query = "insert into users (user_id,user_name,password) values ('$user_id','$user_name','$password')";
 
 
-      mysqli_query($con, $query);
+    mysqli_query($con, $query);
 
-    header("Location: /podstrony/konto/login.php")
-    die;
-    }else
-    {
-      echo "Wprowadź prawidłowe dane";
-    }
-
-  
+  header("Location: /podstrony/konto/login.php")
+  die;
+  }else
+  {
+    echo "Wprowadź prawidłowe dane";
   }
 
 
+}
 ?>
 
 <!DOCTYPE html>
@@ -48,7 +46,7 @@ session_start();
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
-    
+
   <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
@@ -145,7 +143,6 @@ $navbarBurgers.forEach( el => {
    Informacje i Kontakt
   </a>
 </div>
-</div>
 <div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
@@ -156,10 +153,10 @@ $navbarBurgers.forEach( el => {
             <a class="button is-light is-marginless" href="/podstrony/konto/login">
               Zaloguj się
             </a>
-            </div>
+          </div>
         </div>
       </div>
-
+      </div>
     </nav>
 
     <form method="post" class="box box-background-color gray">
@@ -179,15 +176,11 @@ $navbarBurgers.forEach( el => {
 
 <div class="field is-grouped">
   <div class="control">
+    <button class="button is-link">Zaloguj się</button>
     <button class="button is-link">Zarejestruj się</button>
   </div>
 </div>
   </form>
 
-
-
-
-  </body>
-
-
+</body>
 </html>

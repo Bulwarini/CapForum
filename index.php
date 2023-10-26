@@ -1,10 +1,11 @@
 <?php
 session_start();
 
-        include("/podstrony/konto/connection.php");
-        include("/podstrony/konto/function.php");
+        include('connections.php');
+        include('functions.php');
       
         $user_data = check_login($con);
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -164,4 +165,3 @@ $navbarBurgers.forEach( el => {
 
 
 </html>
-?>

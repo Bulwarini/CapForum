@@ -18,7 +18,7 @@ function check_login($con)
 
     //przeniesienie do logowania
 
-    header("Location: /podstrony/konto/login.php")
+    header("Location: login.php")
     die;
 
 
@@ -46,3 +46,4 @@ function random_num($length)
 
    return $text;
 }
+?>
