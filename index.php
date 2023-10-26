@@ -39,7 +39,6 @@ $navbarBurgers.forEach( el => {
 
 });
     </script>
-   
 
       <div class="contrainer is-flex is-hidden-desktop">
 
@@ -66,7 +65,7 @@ $navbarBurgers.forEach( el => {
         </div>  
 
       </div>
-      <div id="navbarBasicExample" class="navbar-menu has-background-primary">
+<div id="navbarBasicExample" class="navbar-menu has-background-primary">
 
 <div class="navbar-start">
 
@@ -108,7 +107,23 @@ $navbarBurgers.forEach( el => {
    Informacje i Kontakt
   </a>
 </div>
+<div class="contrainer is-flex">
+
+<div class="navbar-end">
+  <div class="navbar-item is-flex">
+
+    <div class="buttons is-marginless is-justify-items-center">
+      <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+        <strong>Zarejestruj się</strong>
+      </a>
+      <a class="button is-light is-marginless" href="/podstrony/konto/login">
+        Zaloguj się
+      </a>
+      </div>
+  </div>
 </div>
+</div>
+
 <div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
@@ -122,7 +137,7 @@ $navbarBurgers.forEach( el => {
             </div>
         </div>
       </div>
-
+</div>
     </nav>
 
     <div class="container" style="align-items: center;">
