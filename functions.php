@@ -18,8 +18,8 @@ function check_login($con)
 
     //przeniesienie do logowania
 
-    header("Location: login.php")
-    die;
+    //header("Location: login.php")
+    //die;
 
 }
 
