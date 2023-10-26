@@ -12,6 +12,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  position: relative
+}
+html, body {
+  overflow-x: hidden;  
 }
 </style> 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
