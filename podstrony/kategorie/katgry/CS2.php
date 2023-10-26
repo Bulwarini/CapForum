@@ -140,6 +140,8 @@ $navbarBurgers.forEach( el => {
           <img src="\obrazki\CS2\cs22.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
           <p class="has-text-white is-size-4 ">Seria Counter-Strike dzięki nowej grze z lepszą oprawą graficzną zmienionymi mechanikami oraz ulepszonymi mapami przyciąga do siebie wielu nowych graczy jak i starych fanów, a ilość pozytywnych opinii tej gry mówi sama za siebie.</p>
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz
         </div>
       </div>
 

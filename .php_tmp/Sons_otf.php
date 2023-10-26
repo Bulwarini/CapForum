@@ -126,20 +126,25 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
         
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Counter-Strike 2</h1><br>
-        <p class="has-text-white is-size- has-text-weight-bold">Po 11 latach Counter-Strike: Global Offensive dobiegł końca. A w jago miejsce wchodzi nowy Counter-Strike 2.</p><br>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Sons of the Forest</h1><br>
+        <p class="has-text-white is-size- has-text-weight-bold">Sons of the Forest była jedną z najbardziej wyczekiwanych gier 2023 roku. Jest to gra typu survival horror będąca kontynuacją wydanego w 2014 roku The Forest.</p><br>
         <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/nSE38xjMLqE?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
-          <p class="has-text-white is-size-4 ">Counter-Strike 2 jest darmowym ulepszeniem do CS:GO i stanowi największy skok technologiczny w historii serii. Stworzony na silniku Source 2 nowy Counter-Strike został odnowiony o realistyczne renderowanie oparte na fizyce, najnowocześniejsze funkcje sieciowe i ulepszone narzędzia w Warsztacie Społeczności.</p><br>
+          <p class="has-text-white is-size-1 ">Fabuła</p><br>
+          <p class="has-text-white is-size-4 ">W Sons of the Forest gracz wciela się w ocalałego po zakończonej katastrofą podróży na pokładzie śmigłowca. Naszym zadaniem jest przetrwanie, eksploracja oraz rozwikłanie tajemnicy wyspy w czym przeszkodą będą rozsiani po całej mapie przeciwnicy w postaci kanibali i zmutowanych istot.</p><br>
           <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          <img src="\obrazki\CS2\cs21.png" height="400rem" width="">
-          <p class="has-text-white is-size-1 ">Koniec zamkniętej bety</p><br>
-          <p class="has-text-white is-size-4 ">Counter-Strike 2 stał się oficjalny 28 września 2023 roku w postaci zamkniętej bety, do której dostęp najłatwiej było zdobyć poprzez posiadanie statusu prime oraz rangi w trybie turniejowym.</p><br>
-          <p class="has-text-white is-size-4 ">Po wielu większych i mniejszych zmianach w mapach i ogólnej rozgrywce beta dobiegła końca. Counter-Strike 2 został wydany i jest dostępny za darmo dla każdego. Wraz z oficjalnym wydaniem gry rozpoczyna się także pierwszy sezon trybu Premier. Został także włączony tryb turniejowy oraz skrzydłowy które nie były dostępne w czasie zamkniętej bety. W bibliotece Steam nie zobaczymy już CS:GO, a zamiast tego wszyscy posiadający grę zobaczą tytuł nowego CS 2.</p><br>
-          <img src="\obrazki\CS2\cs22.png" height="400rem" width="">
+          <img src="\obrazki\sotf\sons-of-the-forest-1.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-4 ">Seria Counter-Strike dzięki nowej grze z lepszą oprawą graficzną zmienionymi mechanikami oraz ulepszonymi mapami przyciąga do siebie wielu nowych graczy jak i starych fanów, a ilość pozytywnych opinii tej gry mówi sama za siebie.</p>
+          <p class="has-text-white is-size-1 ">Mechaniki</p><br>
+          <p class="has-text-white is-size-4 ">Jest to gra z perspektywą pierwszoosobową oraz otwartym światem który ze swobodą możemy przemierzać. Pomimo ogromnych lasów zajmujących większość wyspy, szerokich plaż czy rzek występuje tu znacznie bardziej tajemniczy od powierzchni system jaskiń wprowadzający nowe wyzwania oraz unikatowe przedmioty. Ważną rolę odgrywają tu aspekty survivalowe wraz z systemem craftingu.</p><br>
+          <p class="has-text-white is-size-4 ">Oprócz standardowych funkcji które znaleźć można w większości gier typu survival, Sons of the Forest daje nam do dyspozycji rozbudowany system budowania. Customowe ściany, dachy, platformy a także pułapki pozwalają nam wykazać się kreatywnością oraz pomagają w przetrwaniu zwiększającej się z czasem liczby coraz potężniejszych przeciwników.</p><br>
+          <img src="\obrazki\sotf\sons-of-the-forest-2.png" height="400rem" width="">
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-1 ">Zadziwiająca sztuczna inteligencja</p><br>
+          <p class="has-text-white is-size-4 ">Twórcy gry ponownie kładą duży nacisk na sztuczną inteligencję. Dzięki temu zaobserwować możemy szeroki wachlarz zachowań przeciwników oraz sterowanego przez komputer Kelvina, którego zadaniem jest pomaganie graczowi w rozbudowie lub zbieraniu różnych zasobów.</p>
+          <img src="\obrazki\sotf\sons-of-the-forest-3.png" height="400rem" width="">
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 ">Podsumowując, Sons of the Forest jest idealną grą dla fanów gier typu survival oraz osób uwielbiających trzymające w napięciu  mroczne klimaty. Gra może się także pochwalić wysokiej jakości oprawą graficzną, sztuczną inteligencją i systemem budowania.</p>
           <p class="is is-size-1"><br></p>
           <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz
         </div>
