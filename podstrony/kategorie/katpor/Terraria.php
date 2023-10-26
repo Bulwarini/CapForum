@@ -6,6 +6,8 @@
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
+     crossorigin="anonymous"></script>
   </head>
   <body>
     
@@ -125,8 +127,8 @@ $navbarBurgers.forEach( el => {
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Gry</h1>
-        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria">Terraria</a>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">TERRARIA JAK ZACZĄĆ</h1>
+        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria"></a>
 
         </div>
           <p class="is is-size-1"><br></p>
