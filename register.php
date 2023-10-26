@@ -179,7 +179,7 @@ $navbarBurgers.forEach( el => {
 
 <div class="field is-grouped">
   <div class="control">
-    <button class="button is-link">Zarejestruj się</button>
+    <input id="button" type="submit" value="Zarejestruj się" ></input>
   </div>
 </div>
   </form>
