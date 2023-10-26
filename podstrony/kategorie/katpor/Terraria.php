@@ -141,6 +141,7 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box is-rounded is-outlined" style=" background: rgba(20, 19, 19, 0.85)">
       
+        <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
         <img src="\obrazki\Terraria\TERRARIA.jpg" height="" width="900">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">JAK ZACZĄĆ</h1>
         <p class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria"></a></p>
