@@ -1,3 +1,12 @@
+<?php
+session_start();
+
+        include("/podstrony/konto/connection.php");
+        include("/podstrony/konto/function.php");
+      
+        $user_data = chech_login($con);
+?>
+
 <!DOCTYPE html>
 <html>
   <head>

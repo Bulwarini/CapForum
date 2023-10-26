@@ -129,6 +129,9 @@ $navbarBurgers.forEach( el => {
         <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Gry</h1>
         <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katgry/Albion_Online">Albion online</a>
+        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katgry/CS2">CS:GO 2</a>
+        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katgry/Phasmophobia">Phasmophobia</a>
+        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katgry/Sons_otf">Sons Of The Forest</a>
 
         </div>
           <p class="is is-size-1"><br></p>
