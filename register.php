@@ -1,8 +1,8 @@
 <?php
 session_start();
 
-  include("connection.php");
-  include("function.php");
+  include("connections.php");
+  include("functions.php");
 
   
 
@@ -23,7 +23,7 @@ session_start();
 
       mysqli_query($con, $query);
 
-    header("Location: /podstrony/konto/login.php")
+    header("Location: login.php")
     die;
     }else
     {
