@@ -1,3 +1,41 @@
+<?php
+session_start();
+
+  include("/podstrony/konto/connection.php");
+  include("/podstrony/konto/function.php");
+
+  
+
+  if($_SERVER['REQUEST_METHOD'] == "POST")
+  {
+
+    //coś zostało zapostowane
+    $user_name = $_POST['user_name'];
+    $password = $_POST['password'];
+
+    if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
+    {
+
+      //zapisz do bazy danych
+      $user_id = random_num(20)
+      $query = "insert into users (user_id,user_name,password) values ('$user_id','$user_name','$password')";
+
+
+      mysqli_query($con, $query);
+
+    header("Location: /podstrony/konto/login.php")
+    die;
+    }else
+    {
+      echo "Wprowadź prawidłowe dane";
+    }
+
+  
+  }
+
+
+?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -124,35 +162,27 @@ $navbarBurgers.forEach( el => {
 
     </nav>
 
-`   <div class="field">
-  <label class="label">Nazwa</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="Nazwa">
-  </div>
-</div>
-
-<div class="field">
-  <label class="label">Email</label>
-  <div class="control">
-    <input class="input" type="email" placeholder="Email">
+    <form method="post" class="box box-background-color gray">
+    <div class="field is-centered">
+  <label class="label" >Nazwa Użytkownika</label>
+  <div class="control is-centered">
+    <input class="input" type="text" name="user_name">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Hasło</label>
   <div class="control">
-    <input class="input" type="password" placeholder="Hasło">
+    <input class="input" type="password" name="password">
   </div>
 </div>
 
 <div class="field is-grouped">
   <div class="control">
-    <button class="button is-link">Załóż konto</button>
-  </div>
-  <div class="control">
-    <button class="button is-link is-light">Anuluj</button>
+    <button class="button is-link">Zarejestruj się</button>
   </div>
 </div>
+  </form>
 
 
 
