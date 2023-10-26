@@ -129,28 +129,34 @@ $navbarBurgers.forEach( el => {
         <div class="box has-background-black-ter is-rounded is-outlined">
 
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
-        <p class="has-text-white is-size-4 has-text-weight-bold">OBS studio, czyli (Open Broadcasting Software) jest programem do nagrywania i streamowania naszych poczynań w grach i innych aktywności, które możemy chcieć umieścić w Internecie. Program na sam początek może wydawać się przytłaczający ma dużo opcji, które możemy nie do końca rozumieć.</p><br>
-        <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-        </div>
-          <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
-          <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          
-          <p class="has-text-white is-size-1 ">Zamknięty otwarty świat</p><br>
-          <p class="has-text-white is-size-4 ">Mapa gry została podzielona na sieć kwadratowych obszarów połączonych ze sobą węzłami. By przejść z jednego rejonu do drugiego musimy udać się na jego skraj, gdzie czeka nas szybki blackscreen i wczytanie sąsiedniego terytorium
-Wspomniane „kwadraty” dzielą się na 4 zasadnicze rodzaje: niebieskie, gdzie PvP jest niedostępne, a nasza postać nie może zginąć (jedynie zostać chwilowo znokautowana); żółte, gdzie PvP jest dostępne, ale – podobnie jak poprzednio – nie możemy zginąć (agresywni gracze jedynie nas nokautują i płacą za to utratą reputacji); czerwone, gdzie PvP jest dostępne, a w wypadku śmierci cały nasz dobytek przepada (a agresor traci reputację); czarne, gdzie PvP jest nieograniczone w żaden z powyższych sposobów (tj. tracimy wszystko, a każdy może nas zaatakować i zabić bez uszczerbku na reputacji).</p>
-<img src="\obrazki\albion\gathering-zones-albion-online-gathering-guide.webp" height="400rem" width="">
-          <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Recenzje</p><br>
-          <img src="\obrazki\albion\recenzja.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja2.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja3.png" height="400rem" width="">
-          <p class="has-text-white is-size-5">źródło:</p>
-          <a href="https://albiononline.com/home">https://albiononline.com/home</a><br>
-          <a href="https://www.gry-online.pl/S020.asp?ID=12177">https://www.gry-online.pl/S020.asp?ID=12177</a><br>
-        </div>
+        <p class="has-text-white is-size-4 has-text-weight-bold ">
+          OBS studio, czyli (Open Broadcasting Software) jest programem do nagrywania i streamowania naszych poczynań w grach i innych aktywności, które możemy chcieć umieścić w Internecie. 
+          Program na sam początek może wydawać się przytłaczający ma dużo opcji, które możemy nie do końca rozumieć.</p><br>
+        <div class="has-text-justified has-text-white is-size-4">
+        <figure class="image">
+        <img src="/obrazki/obs/obs_screen_1.png">
+        </figure>
+        Na sam początek chcemy aby było widać nasz ekran aby to ustawić w zakładce źródła<sup>1</sup> obrazu klikamy plusika w lewym dolnym rogu i zależnie od 
+        potrzeby wybieramy opcję najbardziej zależy nam na przechwytywaniu ekranu lub przechwytywaniu okna przy drugiej opcji nie musimy martwić się o to że pokażemy pulpit przeglądarkę 
+        i inne rzeczy wyświetlone będzie tylko wybrane przez nas okno przy pierwszej opcji pokazujemy cały ekran dla ułatwienia kontroli nad programem jest zakładka sceny<sup>2</sup> 
+        po lewej od źródła obrazu tam dodając scenę możemy np. dać naszą grafikę z informacją albo przejście z przechwytywania ekranu do przechwytywania okna albo np. 
+        ekran pożegnalny jak chcemy zakończyć już nasze nagrywanie.
+        Mamy już ogarnięty obraz, ale dalej nas nie słychać jak temu zaradzić? Rozwiązanie jest bardzo proste w środkowej zakładce “Mikser Dźwięku”<sup>3</sup> Widzimy wykresy ukazujące 
+        jak głośny jest nasz dźwięk może się zdarzyć, że mikrofon nie będzie odbierał dźwięku a wykres będzie stał w miejscu, aby temu zaradzić klikamy w 3 kropki pod wykresem 
+        z Mikrofonu potem właściwości i wybieramy urządzenie, które ma nagrywać nasz dźwięk warto ustawić też bramkę szumów albo/i tłumienie hałasu co na pewno poprawi jakość 
+        dźwięku usuwając szumy z tła.Podstawy już za nami, ale jak zacząć stremować albo nagrywać oprócz oczywistego przycisku do rozpoczęcia, 
+        które znajduje się w prawym dolnym rogu kilka przycisków niżej są ustawienia<sup>4</sup>.<br>
+        <figure class="image">
+        <img src="/obrazki/obs/obs_screen_2.png">
+        </figure>
+          <p class="has-text-justified has-text-white is-size-4"> W zakładce stream<sup>1</sup> wybieramy serwis, na którym chcemy stremować i ewentualne 
+            ustawienia które nas interesują (mogą różnić się w zależności od platformy, na której streamujemy lub chcemy streamować). W zakładce wyjście<sup>2</sup> mamy więcej 
+            ustawień streamingu tutaj warto testować ustawienia, bo najlepsze dla nas będą takie które pasują do naszego sprzętu Internetu i tego co streamujemy, a poniżej możemy ustawić, 
+            gdzie są pobierane pliki ich jakość oraz format. Możemy też zmienić jakość w zakładce obraz<sup>3</sup> i ustawić skróty klawiszowe które są przydatne do zakończenia steama albo zmiany sceny.</p><br>
+
       </div>
 
+    </div>
     </div>
   </body>
 
