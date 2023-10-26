@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
+     crossorigin="anonymous"></script>
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
@@ -131,6 +133,7 @@ $navbarBurgers.forEach( el => {
           plz</p>
           <p class="has-text-white is-size-1 has-text-weight-bold">Pozdrawia administracja strony!</p>
           <p class="is is-size-1"><br></p>
+          <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatności</a>
         </div>
       </div>
 
