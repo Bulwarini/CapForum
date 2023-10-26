@@ -123,10 +123,11 @@ $navbarBurgers.forEach( el => {
       </div>
 
     </nav>
+
   <div class="container" style="align-items: center;">
     <div class="is section is-large">
     <div class="box has-background-black-ter is-rounded is-outlined">
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Wydarzenia na świecie<br><h1 class="is title has-text-centered has-text-weight-bold is-size-4" style="color: red;" >Artykuły:</h1>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Wydarzenia na świecie</h1><br><h1 class="is title has-text-centered has-text-weight-bold is-size-4" style="color: red;" >Artykuły:</h1>
 
     <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katwyd/JWST_Europa.php"><figure class="image is-128x128"><img src="/obrazki/jwst/Europa-moon.png">
       </figure></a>
@@ -144,7 +145,7 @@ $navbarBurgers.forEach( el => {
       </figure></a>
       <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Enceladus.php">Webb ujawnia zaskakująco duży gejzer tryskający z księżyca Saturna, Enceladusa</a></div>
       </div><br>
-      
+
     </div>
     </div>
   </div>
