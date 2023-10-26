@@ -21,10 +21,6 @@ function check_login($con)
     header("Location: login.php")
     die;
 
-
-
-
-
 }
 
 function random_num($length)

@@ -1,13 +1,14 @@
 <?php
+$servername = "localhost";
+$username = "mysql";
+$password = "";
 
-$dbhost = "localhost";
-$dbuser = "mysql";
-$dbpass = "";
-$dbname = "reglog";
+// Create connection
+$con = new mysqli($servername, $username, $password);
 
-
-
-if(!$con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
-{
-    die("failed to connect!");
+// Check connection
+if ($con->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
 }
+echo "Connected successfully";
+?>
