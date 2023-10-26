@@ -6,8 +6,6 @@
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
-     crossorigin="anonymous"></script>
   </head>
   <body>
     
@@ -127,28 +125,27 @@ $navbarBurgers.forEach( el => {
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
-
-        <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
-        <p class="has-text-white is-size- has-text-weight-bold">Albion Online jest sandboksowym MMORPG. Oznacza to, że większość wydarzeń w świecie gry oraz wirtualną ekonomię napędzają działania samych graczy.</p><br>
+        
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Ogromna aktualizacja Phasmophobii - Ascension Update</h1><br>
+        <p class="has-text-white is-size- has-text-weight-bold">Do Phasmophobii nadeszła nowa aktualizacja zupełnie zmieniająca system ekwipunku oraz poziomów.</p><br>
         <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
-          <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
-          <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          
-          <p class="has-text-white is-size-1 ">Zamknięty otwarty świat</p><br>
-          <p class="has-text-white is-size-4 ">Mapa gry została podzielona na sieć kwadratowych obszarów połączonych ze sobą węzłami. By przejść z jednego rejonu do drugiego musimy udać się na jego skraj, gdzie czeka nas szybki blackscreen i wczytanie sąsiedniego terytorium
-Wspomniane „kwadraty” dzielą się na 4 zasadnicze rodzaje: niebieskie, gdzie PvP jest niedostępne, a nasza postać nie może zginąć (jedynie zostać chwilowo znokautowana); żółte, gdzie PvP jest dostępne, ale – podobnie jak poprzednio – nie możemy zginąć (agresywni gracze jedynie nas nokautują i płacą za to utratą reputacji); czerwone, gdzie PvP jest dostępne, a w wypadku śmierci cały nasz dobytek przepada (a agresor traci reputację); czarne, gdzie PvP jest nieograniczone w żaden z powyższych sposobów (tj. tracimy wszystko, a każdy może nas zaatakować i zabić bez uszczerbku na reputacji).</p>
-<img src="\obrazki\albion\gathering-zones-albion-online-gathering-guide.webp" height="400rem" width="">
+          <p class="has-text-white is-size-1 ">Phasmophobia - krótko o grze</p><br>
+          <p class="has-text-white is-size-4 ">Phasmophobia jest psychologicznym horrorem z trybem kooperacji online do 4 osób. W grze wcielasz się w badacza zjawisk paranormalnych, a twoim zadaniem jest zbadać nawiedzony budynek i wraz ze swoją drużyną zebrać jak najwięcej dowodów i informacji na temat znajdującego się tam ducha oraz przeżycie.</p><br>
+          <p class="has-text-white is-size-1 ">Postęp</p><br>
+          <p class="has-text-white is-size-4 ">Nowa aktualizacja wprowadziła ogromne zmiany w postępie. Od teraz za zdobyte poziomy odblokowujemy nowe wyposażenie i przedmioty. Dodany został także system prestiżu.</p><br>
+          <p class="has-text-white is-size-4 ">Postęp graczy phasmophobii został zresetowany, a w zamian gracze grający jeszcze przed aktualizacją otrzymali pierwszy poziom prestiżu na start. Gracze po aktualizacji gry mogli także wybrać nową unikatową odznakę z opcjami zależnymi od poprzedniego poziomu.</p><br>
+          <img src="\obrazki\phasm\phasm1.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Recenzje</p><br>
-          <img src="\obrazki\albion\recenzja.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja2.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja3.png" height="400rem" width="">
-          <p class="has-text-white is-size-5">źródło:</p>
-          <a href="https://albiononline.com/home">https://albiononline.com/home</a><br>
-          <a href="https://www.gry-online.pl/S020.asp?ID=12177">https://www.gry-online.pl/S020.asp?ID=12177</a><br>
+          <p class="has-text-white is-size-1 ">Poziomy przedmiotów</p><br>
+          <p class="has-text-white is-size-4 ">Każdy przedmiot ma teraz trzy poziomy które dotyczą jego efektywności i łatwości użycia. Ulepszanie przedmiotów polega na zdobyciu odpowiedniego poziomu w grze i zakupu ulepszenia w sklepie.</p>
+          <img src="\obrazki\phasm\phasm2.png" height="400rem" width="">
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 ">Aktualizacja wprowadziła także mniejsze zmiany do temperatury i systemu zdjęć. Dodana została nowa misja treningowa i włączono kolizje między graczami.</p>
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz</p><br>
+          <p class="has-text-white is-size-4 is-italic">Źródła: </p>
+          <a href="https://www.ign.com/wikis/phasmophobia/Phasmophobia_Ascension_Update_Patch_Notes">https://www.ign.com/wikis/phasmophobia/Phasmophobia_Ascension_Update_Patch_Notes</a><br>
         </div>
       </div>
 

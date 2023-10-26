@@ -1,7 +1,10 @@
 <?php
 session_start();
 
-        $_SESSION;
+        include("/podstrony/konto/connection.php");
+        include("/podstrony/konto/function.php");
+      
+        $user_data = chech_login($con);
 ?>
 
 <!DOCTYPE html>
@@ -10,7 +13,10 @@ session_start();
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
+     crossorigin="anonymous"></script>
     <title>CapForum</title>
+    <link rel="icon" type="image/x-icon" href="/obrazki/capforum.ico">
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
@@ -42,7 +48,6 @@ $navbarBurgers.forEach( el => {
 
 });
     </script>
-   
 
       <div class="contrainer is-flex is-hidden-desktop">
 
@@ -69,7 +74,7 @@ $navbarBurgers.forEach( el => {
         </div>  
 
       </div>
-      <div id="navbarBasicExample" class="navbar-menu has-background-primary">
+<div id="navbarBasicExample" class="navbar-menu has-background-primary">
 
 <div class="navbar-start">
 
@@ -111,8 +116,24 @@ $navbarBurgers.forEach( el => {
    Informacje i Kontakt
   </a>
 </div>
+<div class="contrainer is-flex">
+
+<div class="navbar-end">
+  <div class="navbar-item is-flex">
+
+    <div class="buttons is-marginless is-justify-items-center">
+      <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+        <strong>Zarejestruj się</strong>
+      </a>
+      <a class="button is-light is-marginless" href="/podstrony/konto/login">
+        Zaloguj się
+      </a>
+      </div>
+  </div>
 </div>
-<div class="navbar-end is-hidden-mobile">
+</div>
+
+<div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
@@ -125,7 +146,7 @@ $navbarBurgers.forEach( el => {
             </div>
         </div>
       </div>
-
+</div>
     </nav>
 
     <div class="container" style="align-items: center;">

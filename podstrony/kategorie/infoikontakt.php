@@ -4,12 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
+     crossorigin="anonymous"></script>
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
   </head>
   <body>
 
-    <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
+  <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
         </div>
@@ -106,7 +108,7 @@ $navbarBurgers.forEach( el => {
   </a>
 </div>
 </div>
-<div class="navbar-end is-hidden-mobile">
+<div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
@@ -131,6 +133,7 @@ $navbarBurgers.forEach( el => {
           plz</p>
           <p class="has-text-white is-size-1 has-text-weight-bold">Pozdrawia administracja strony!</p>
           <p class="is is-size-1"><br></p>
+          <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatności</a>
         </div>
       </div>
 

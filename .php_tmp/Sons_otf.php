@@ -6,8 +6,6 @@
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
-     crossorigin="anonymous"></script>
   </head>
   <body>
     
@@ -127,28 +125,31 @@ $navbarBurgers.forEach( el => {
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
-
-        <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
-        <p class="has-text-white is-size- has-text-weight-bold">Albion Online jest sandboksowym MMORPG. Oznacza to, że większość wydarzeń w świecie gry oraz wirtualną ekonomię napędzają działania samych graczy.</p><br>
+        
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Sons of the Forest</h1><br>
+        <p class="has-text-white is-size- has-text-weight-bold">Sons of the Forest była jedną z najbardziej wyczekiwanych gier 2023 roku. Jest to gra typu survival horror będąca kontynuacją wydanego w 2014 roku The Forest.</p><br>
         <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
-          <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
+          <p class="has-text-white is-size-1 ">Fabuła</p><br>
+          <p class="has-text-white is-size-4 ">W Sons of the Forest gracz wciela się w ocalałego po zakończonej katastrofą podróży na pokładzie śmigłowca. Naszym zadaniem jest przetrwanie, eksploracja oraz rozwikłanie tajemnicy wyspy w czym przeszkodą będą rozsiani po całej mapie przeciwnicy w postaci kanibali i zmutowanych istot.</p><br>
           <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          
-          <p class="has-text-white is-size-1 ">Zamknięty otwarty świat</p><br>
-          <p class="has-text-white is-size-4 ">Mapa gry została podzielona na sieć kwadratowych obszarów połączonych ze sobą węzłami. By przejść z jednego rejonu do drugiego musimy udać się na jego skraj, gdzie czeka nas szybki blackscreen i wczytanie sąsiedniego terytorium
-Wspomniane „kwadraty” dzielą się na 4 zasadnicze rodzaje: niebieskie, gdzie PvP jest niedostępne, a nasza postać nie może zginąć (jedynie zostać chwilowo znokautowana); żółte, gdzie PvP jest dostępne, ale – podobnie jak poprzednio – nie możemy zginąć (agresywni gracze jedynie nas nokautują i płacą za to utratą reputacji); czerwone, gdzie PvP jest dostępne, a w wypadku śmierci cały nasz dobytek przepada (a agresor traci reputację); czarne, gdzie PvP jest nieograniczone w żaden z powyższych sposobów (tj. tracimy wszystko, a każdy może nas zaatakować i zabić bez uszczerbku na reputacji).</p>
-<img src="\obrazki\albion\gathering-zones-albion-online-gathering-guide.webp" height="400rem" width="">
+          <img src="\obrazki\sotf\sons-of-the-forest-1.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Recenzje</p><br>
-          <img src="\obrazki\albion\recenzja.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja2.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja3.png" height="400rem" width="">
-          <p class="has-text-white is-size-5">źródło:</p>
-          <a href="https://albiononline.com/home">https://albiononline.com/home</a><br>
-          <a href="https://www.gry-online.pl/S020.asp?ID=12177">https://www.gry-online.pl/S020.asp?ID=12177</a><br>
+          <p class="has-text-white is-size-1 ">Mechaniki</p><br>
+          <p class="has-text-white is-size-4 ">Jest to gra z perspektywą pierwszoosobową oraz otwartym światem który ze swobodą możemy przemierzać. Pomimo ogromnych lasów zajmujących większość wyspy, szerokich plaż czy rzek występuje tu znacznie bardziej tajemniczy od powierzchni system jaskiń wprowadzający nowe wyzwania oraz unikatowe przedmioty. Ważną rolę odgrywają tu aspekty survivalowe wraz z systemem craftingu.</p><br>
+          <p class="has-text-white is-size-4 ">Oprócz standardowych funkcji które znaleźć można w większości gier typu survival, Sons of the Forest daje nam do dyspozycji rozbudowany system budowania. Customowe ściany, dachy, platformy a także pułapki pozwalają nam wykazać się kreatywnością oraz pomagają w przetrwaniu zwiększającej się z czasem liczby coraz potężniejszych przeciwników.</p><br>
+          <img src="\obrazki\sotf\sons-of-the-forest-2.png" height="400rem" width="">
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-1 ">Zadziwiająca sztuczna inteligencja</p><br>
+          <p class="has-text-white is-size-4 ">Twórcy gry ponownie kładą duży nacisk na sztuczną inteligencję. Dzięki temu zaobserwować możemy szeroki wachlarz zachowań przeciwników oraz sterowanego przez komputer Kelvina, którego zadaniem jest pomaganie graczowi w rozbudowie lub zbieraniu różnych zasobów.</p>
+          <img src="\obrazki\sotf\sons-of-the-forest-3.png" height="400rem" width="">
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 ">Podsumowując, Sons of the Forest jest idealną grą dla fanów gier typu survival oraz osób uwielbiających trzymające w napięciu  mroczne klimaty. Gra może się także pochwalić wysokiej jakości oprawą graficzną, sztuczną inteligencją i systemem budowania.</p>
+          <p class="is is-size-1"><br></p>
+          <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz</p><br>
+          <p class="has-text-white is-size-4 is-italic">Źródła: </p>
+          <a href="https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie">https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie</a><br>
+          <a href="https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest">https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest</a><br>
         </div>
       </div>
 
