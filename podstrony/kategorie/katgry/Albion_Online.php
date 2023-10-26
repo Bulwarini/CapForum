@@ -6,6 +6,18 @@
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
+    <style>
+body {
+  background-image: url('/obrazki/albion/alb.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  position: relative
+}
+html, body {
+  overflow-x: hidden;  
+}
+</style>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
      crossorigin="anonymous"></script>
   </head>
@@ -126,7 +138,7 @@ $navbarBurgers.forEach( el => {
 
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
-        <div class="box has-background-black-ter is-rounded is-outlined">
+        <div class="box is-rounded is-outlined" style=" background: rgba(20, 19, 19, 0.85)"> 
 
         <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
@@ -134,7 +146,7 @@ $navbarBurgers.forEach( el => {
         <div class="is-flex is-justify-content-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
-          <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
+          <p class="has-text-justified has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
           <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
           
           <p class="has-text-white is-size-1 ">Zamknięty otwarty świat</p><br>
