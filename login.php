@@ -25,7 +25,8 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 
   header("Location: login.php")
   die;
-  }else
+    echo "Wprowadź prawidłowe dane";
+}else
   {
     echo "Wprowadź prawidłowe dane";
   }
