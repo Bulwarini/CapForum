@@ -23,8 +23,8 @@ session_start();
 
       mysqli_query($con, $query);
 
-    header("Location: login.php");
-    die;
+    //header("Location: login.php");
+    //die;
     }else
     {
       echo "Wprowadź prawidłowe dane";
