@@ -17,13 +17,13 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
   {
 
     //zapisz do bazy danych
-    $user_id = random_num(20)
+    $user_id = random_num(20);
     $query = "insert into users (user_id,user_name,password) values ('$user_id','$user_name','$password')";
 
 
     mysqli_query($con, $query);
 
-  header("Location: login.php")
+  header("Location: login.php");
   die;
     echo "Wprowadź prawidłowe dane";
 }else
