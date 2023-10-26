@@ -5,7 +5,7 @@ session_start();
         include('connections.php');
         include('functions.php');
       
-        $user_data = check_login($con);
+        $user_data = c
 ?>
 <!DOCTYPE html>
 <html>
@@ -55,10 +55,10 @@ $navbarBurgers.forEach( el => {
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
             </div>
@@ -122,10 +122,10 @@ $navbarBurgers.forEach( el => {
   <div class="navbar-item is-flex">
 
     <div class="buttons is-marginless is-justify-items-center">
-      <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+      <a class="button is-primary is-marginless" href="/register">
         <strong>Zarejestruj się</strong>
       </a>
-      <a class="button is-light is-marginless" href="/podstrony/konto/login">
+      <a class="button is-light is-marginless" href="/login">
         Zaloguj się
       </a>
       </div>
@@ -137,10 +137,10 @@ $navbarBurgers.forEach( el => {
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
             </div>
