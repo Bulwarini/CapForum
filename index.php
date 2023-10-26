@@ -5,8 +5,6 @@ session_start();
         include("/podstrony/konto/function.php");
       
         $user_data = check_login($con);
-?>
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -166,3 +164,4 @@ $navbarBurgers.forEach( el => {
 
 
 </html>
+?>
