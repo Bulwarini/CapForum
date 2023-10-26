@@ -146,7 +146,10 @@ $navbarBurgers.forEach( el => {
           <p class="is is-size-1"><br></p>
           <p class="has-text-white is-size-4 ">Podsumowując, Sons of the Forest jest idealną grą dla fanów gier typu survival oraz osób uwielbiających trzymające w napięciu  mroczne klimaty. Gra może się także pochwalić wysokiej jakości oprawą graficzną, sztuczną inteligencją i systemem budowania.</p>
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz
+          <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz</p><br>
+          <p class="has-text-white is-size-4 is-italic">Źródła: </p>
+          <a href="https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie">https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie</a><br>
+          <a href="https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest">https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest</a><br>
         </div>
       </div>
 

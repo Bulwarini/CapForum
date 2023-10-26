@@ -126,30 +126,26 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
         
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Sons of the Forest</h1><br>
-        <p class="has-text-white is-size- has-text-weight-bold">Sons of the Forest była jedną z najbardziej wyczekiwanych gier 2023 roku. Jest to gra typu survival horror będąca kontynuacją wydanego w 2014 roku The Forest.</p><br>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Ogromna aktualizacja Phasmophobii - Ascension Update</h1><br>
+        <p class="has-text-white is-size- has-text-weight-bold">Do Phasmophobii nadeszła nowa aktualizacja zupełnie zmieniająca system ekwipunku oraz poziomów.</p><br>
         <div class="is-flex is-justify-content-center">
         </div>
-          <p class="has-text-white is-size-1 ">Fabuła</p><br>
-          <p class="has-text-white is-size-4 ">W Sons of the Forest gracz wciela się w ocalałego po zakończonej katastrofą podróży na pokładzie śmigłowca. Naszym zadaniem jest przetrwanie, eksploracja oraz rozwikłanie tajemnicy wyspy w czym przeszkodą będą rozsiani po całej mapie przeciwnicy w postaci kanibali i zmutowanych istot.</p><br>
-          <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          <img src="\obrazki\sotf\sons-of-the-forest-1.png" height="400rem" width="">
+          <p class="has-text-white is-size-1 ">Phasmophobia - krótko o grze</p><br>
+          <p class="has-text-white is-size-4 ">Phasmophobia jest psychologicznym horrorem z trybem kooperacji online do 4 osób. W grze wcielasz się w badacza zjawisk paranormalnych, a twoim zadaniem jest zbadać nawiedzony budynek i wraz ze swoją drużyną zebrać jak najwięcej dowodów i informacji na temat znajdującego się tam ducha oraz przeżycie.</p><br>
+          <p class="has-text-white is-size-1 ">Postęp</p><br>
+          <p class="has-text-white is-size-4 ">Nowa aktualizacja wprowadziła ogromne zmiany w postępie. Od teraz za zdobyte poziomy odblokowujemy nowe wyposażenie i przedmioty. Dodany został także system prestiżu.</p><br>
+          <p class="has-text-white is-size-4 ">Postęp graczy phasmophobii został zresetowany, a w zamian gracze grający jeszcze przed aktualizacją otrzymali pierwszy poziom prestiżu na start. Gracze po aktualizacji gry mogli także wybrać nową unikatową odznakę z opcjami zależnymi od poprzedniego poziomu.</p><br>
+          <img src="\obrazki\phasm\phasm1.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Mechaniki</p><br>
-          <p class="has-text-white is-size-4 ">Jest to gra z perspektywą pierwszoosobową oraz otwartym światem który ze swobodą możemy przemierzać. Pomimo ogromnych lasów zajmujących większość wyspy, szerokich plaż czy rzek występuje tu znacznie bardziej tajemniczy od powierzchni system jaskiń wprowadzający nowe wyzwania oraz unikatowe przedmioty. Ważną rolę odgrywają tu aspekty survivalowe wraz z systemem craftingu.</p><br>
-          <p class="has-text-white is-size-4 ">Oprócz standardowych funkcji które znaleźć można w większości gier typu survival, Sons of the Forest daje nam do dyspozycji rozbudowany system budowania. Customowe ściany, dachy, platformy a także pułapki pozwalają nam wykazać się kreatywnością oraz pomagają w przetrwaniu zwiększającej się z czasem liczby coraz potężniejszych przeciwników.</p><br>
-          <img src="\obrazki\sotf\sons-of-the-forest-2.png" height="400rem" width="">
+          <p class="has-text-white is-size-1 ">Poziomy przedmiotów</p><br>
+          <p class="has-text-white is-size-4 ">Każdy przedmiot ma teraz trzy poziomy które dotyczą jego efektywności i łatwości użycia. Ulepszanie przedmiotów polega na zdobyciu odpowiedniego poziomu w grze i zakupu ulepszenia w sklepie.</p>
+          <img src="\obrazki\phasm\phasm2.png" height="400rem" width="">
           <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Zadziwiająca sztuczna inteligencja</p><br>
-          <p class="has-text-white is-size-4 ">Twórcy gry ponownie kładą duży nacisk na sztuczną inteligencję. Dzięki temu zaobserwować możemy szeroki wachlarz zachowań przeciwników oraz sterowanego przez komputer Kelvina, którego zadaniem jest pomaganie graczowi w rozbudowie lub zbieraniu różnych zasobów.</p>
-          <img src="\obrazki\sotf\sons-of-the-forest-3.png" height="400rem" width="">
-          <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-4 ">Podsumowując, Sons of the Forest jest idealną grą dla fanów gier typu survival oraz osób uwielbiających trzymające w napięciu  mroczne klimaty. Gra może się także pochwalić wysokiej jakości oprawą graficzną, sztuczną inteligencją i systemem budowania.</p>
+          <p class="has-text-white is-size-4 ">Aktualizacja wprowadziła także mniejsze zmiany do temperatury i systemu zdjęć. Dodana została nowa misja treningowa i włączono kolizje między graczami.</p>
           <p class="is is-size-1"><br></p>
           <p class="has-text-white is-size-4 is-italic">Autor: Nikodem Stankiewicz</p><br>
           <p class="has-text-white is-size-4 is-italic">Źródła: </p>
-          <a href="https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie">https://cdaction.pl/newsy/sons-of-the-forest-dzis-premiera-lesnego-horroru-we-wczesnym-dostepie</a><br>
-          <a href="https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest">https://sonsoftheforest.fandom.com/wiki/Sons_of_the_Forest</a><br>
+          <a href="https://www.ign.com/wikis/phasmophobia/Phasmophobia_Ascension_Update_Patch_Notes">https://www.ign.com/wikis/phasmophobia/Phasmophobia_Ascension_Update_Patch_Notes</a><br>
         </div>
       </div>
 
