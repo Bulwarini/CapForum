@@ -105,7 +105,6 @@ $navbarBurgers.forEach( el => {
    Informacje i Kontakt
   </a>
 </div>
-</div>
 <div class="navbar-end is-hidden-mobile">
         <div class="navbar-item is-flex">
 
@@ -116,34 +115,34 @@ $navbarBurgers.forEach( el => {
             <a class="button is-light is-marginless" href="/podstrony/konto/login">
               Zaloguj się
             </a>
-            </div>
+          </div>
         </div>
       </div>
-
+      </div>
     </nav>
 
-    <div class="field">
-  <label class="label">Email</label>
-  <div class="control">
-    <input class="input" type="email" placeholder="Email">
+    <form method="post" class="box box-background-color gray">
+    <div class="field is-centered">
+  <label class="label" >Nazwa Użytkownika</label>
+  <div class="control is-centered">
+    <input class="input" type="text" name="user_name">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Hasło</label>
   <div class="control">
-    <input class="input" type="password" placeholder="Hasło">
+    <input class="input" type="password" name="password">
   </div>
 </div>
 
 <div class="field is-grouped">
   <div class="control">
     <button class="button is-link">Zaloguj się</button>
-  </div>
-  <div class="control">
-    <button class="button is-link is-light">Anuluj</button>
+    <button class="button is-link">Zarejestruj się</button>
   </div>
 </div>
+  </form>
 
-    </body>
+</body>
 </html>
