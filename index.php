@@ -4,7 +4,7 @@ session_start();
         include("/podstrony/konto/connection.php");
         include("/podstrony/konto/function.php");
       
-        $user_data = chech_login($con);
+        $user_data = check_login($con);
 ?>
 
 <!DOCTYPE html>
