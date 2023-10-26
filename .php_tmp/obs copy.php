@@ -128,9 +128,8 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
 
-        <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
-        <p class="has-text-white is-size- has-text-weight-bold">Albion Online jest sandboksowym MMORPG. Oznacza to, że większość wydarzeń w świecie gry oraz wirtualną ekonomię napędzają działania samych graczy.</p><br>
+        <p class="has-text-white is-size-4 has-text-weight-bold">OBS studio, czyli (Open Broadcasting Software) jest programem do nagrywania i streamowania naszych poczynań w grach i innych aktywności, które możemy chcieć umieścić w Internecie. Program na sam początek może wydawać się przytłaczający ma dużo opcji, które możemy nie do końca rozumieć.</p><br>
         <div class="is-flex is-justify-content-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
         </div>
