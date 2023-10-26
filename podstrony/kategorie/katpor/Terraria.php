@@ -23,7 +23,7 @@ html, body {
   </head>
   <body> 
     
-  <nav class="navbar is-primary" role="navigation" aria-label="main navigation" >
+  <nav class="navbar is-primary  is-transparent" role="navigation" aria-label="main navigation" >
       <div class="navbar-brand">
           <img src="\obrazki\capforum.svg" height="150" width="150">
         </div>
@@ -139,12 +139,11 @@ $navbarBurgers.forEach( el => {
     
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
-        <div class="box has-background-black-ter is-rounded is-outlined" style="opacity: .9">
+        <div class="box is-rounded is-outlined" style=" background: rgba(20, 19, 19, 0.85)">
       
         <img src="\obrazki\Terraria\TERRARIA.jpg" height="" width="900">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">JAK ZACZĄĆ</h1>
-        <div class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria"></a>
-          </div>
+        <p class="has-text-white is-size-4"><a href="/podstrony/kategorie/katpor/Terraria"></a></p>
           <p class="has-text-white is-size-1"></p><br>
           <p class="has-text-white is-size-4">ludzie włączają Terrarię i nie wiedzą o co chodzi. Domyślam się, że taka sytuacja zdarza się częściej, po tym jak twórca przypomniał światu o istnieniu tej wspaniałej gierki, wypuszczając znienacka ogromną aktualizację. Wieść ta zabolała mnie na tyle mocno, że postanowiłem choć trochę przyczynić się do poprawy tej niepokojącej sytuacji, pisząc ten mini-poradnik.</p><br>
           <p class="has-text-white is-size-4">Młody terrarysto, jak już zapewne wiesz, Terraria jest grą typu sandbox. Oznacza to, że nie masz narzuconego konkretnego celu, i to, czy zajmiesz się eksploracją świata, czy też budowaniem niesamowitych konstrukcji zależy tylko od ciebie. Problem w tym, że aby w pełni móc docenić swobodę płynącą z rozgrywki, powinieneś wiedzieć, co w ogóle w grze można ciekawego robić – a Terraria nie kwapi się do pomocy graczowi w tym temacie i poza zdawkowymi hasłami wygłaszanymi przez NPC-ów ciężko o jakieś konkretne porady. Przyznam że sam na początku cisnąłem grę w kąt przytłoczony nadmiarem swobody (wiem brzmi absurdalnie) i gdyby nie moje zacięcie do czytania internetowych poradników, nie miałbym dziś 150h na liczniku.</p><br>
