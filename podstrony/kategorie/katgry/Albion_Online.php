@@ -125,7 +125,8 @@ $navbarBurgers.forEach( el => {
     <div class="container" style="align-items: center;">
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
-        
+
+        <p class="has-text-white is-size-6 ">Autor-Ciacho</p><br>
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
         <p class="has-text-white is-size- has-text-weight-bold">Albion Online jest sandboksowym MMORPG. Oznacza to, że większość wydarzeń w świecie gry oraz wirtualną ekonomię napędzają działania samych graczy.</p><br>
         <div class="is-flex is-justify-content-center">
@@ -143,6 +144,9 @@ Wspomniane „kwadraty” dzielą się na 4 zasadnicze rodzaje: niebieskie, gdzi
           <img src="\obrazki\albion\recenzja.png" height="400rem" width="">
           <img src="\obrazki\albion\recenzja2.png" height="400rem" width="">
           <img src="\obrazki\albion\recenzja3.png" height="400rem" width="">
+          <p class="has-text-white is-size-5">źródło:</p>
+          <a href="https://albiononline.com/home">https://albiononline.com/home</a><br>
+          <a href="https://www.gry-online.pl/S020.asp?ID=12177">https://www.gry-online.pl/S020.asp?ID=12177</a><br>
         </div>
       </div>
 
