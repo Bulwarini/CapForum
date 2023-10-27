@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-adsense-account" content="ca-pub-1518890929804230">
     <title>CapForum</title>
-    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=2" type="text/css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=3" type="text/css">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
      crossorigin="anonymous"></script>
      <style>
@@ -52,17 +52,11 @@ html, body {
 
     </div>
     </div>
-
-
-    <footer class="footer is-primary"  style="position: bottom;left: 0;bottom: 0;width: 100%;">
-  <div class="content has-text-centered">
-    <p class="has-text-white">
-      <strong class="has-text-white">CapForum</strong> by CapForumTeam.
-      <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatnośći.</a>
-    </p>
-  </div>
-</footer>
 </div>
+
+
+  <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/stopka.php"; ?>
+
   </body>
 
 

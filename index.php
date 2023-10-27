@@ -17,7 +17,7 @@ session_start();
      crossorigin="anonymous"></script>
     <title>CapForum</title>
     <link rel="icon" type="image/x-icon" href="/obrazki/capforum.ico">
-    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=2" type="text/css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=3" type="text/css">
     <style>
 html, body {
   overflow-x: hidden;  
@@ -43,14 +43,9 @@ html, body {
     </div>
 
 
-    <footer class="footer is-primary"  style="position: bottom;left: 0;bottom: 0;width: 100%;">
-  <div class="content has-text-centered">
-    <p class="has-text-white">
-      <strong class="has-text-white">CapForum</strong> by CapForumTeam.
-      <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatnośći.</a>
-    </p>
-  </div>
-</footer>
+    <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/stopka.php"; ?>
+
+
   </body>
 
 
