@@ -148,29 +148,19 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
 
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
-        <p class="has-text-white is-size-4 has-text-weight-bold">OBS studio, czyli (Open Broadcasting Software) jest programem do nagrywania i streamowania naszych poczynań w grach i innych aktywności, które możemy chcieć umieścić w Internecie. Program na sam początek może wydawać się przytłaczający ma dużo opcji, które możemy nie do końca rozumieć.</p><br>
-        <div class="is-flex is-justify-content-center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_TVA7FFCIVA?&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-        </div>
-          <p class="has-text-white is-size-4 ">Albion Online to sandbox MMORPG, w którym to Ty piszesz własną historię, zamiast podążać wytyczoną ścieżką. Odkrywaj ogromny otwarty świat. Wszystko, co robisz, wpływa na zależną od gracza ekonomię Albionu. Każdy element ekwipunku jest tworzony przez graczy z surowców, które sami zbierają. Twój ekwipunek decyduje o tym, kim jesteś. Zamiana z rycerza na maga jest tak prosta, jak zmiana zbroi i broni. Możesz też połączyć elementy obu klas.  Ruszaj w głąb lochów, gdzie znajdziesz zarówno bogactwo jak i zagrożenia. Zrelaksuj się na własnej wyspie, na której możesz postawić dom, sadzić rośliny i hodować zwierzęta. Chwyć za wędkę i ruszaj w kierunku jezior, rzek i oceanów Albionu.  Dołącz do gildii, graj z innymi! Bierz udział w ogromnych bitwach PVP i zagarnij dla siebie kawałek świata! To jest Albion Online.</p><br>
-          <p class="has-text-white is-size-1 has-text-weight-bold"> </p>
-          
-          <p class="has-text-white is-size-1 ">Zamknięty otwarty świat</p><br>
-          <p class="has-text-white is-size-4 ">Mapa gry została podzielona na sieć kwadratowych obszarów połączonych ze sobą węzłami. By przejść z jednego rejonu do drugiego musimy udać się na jego skraj, gdzie czeka nas szybki blackscreen i wczytanie sąsiedniego terytorium
-Wspomniane „kwadraty” dzielą się na 4 zasadnicze rodzaje: niebieskie, gdzie PvP jest niedostępne, a nasza postać nie może zginąć (jedynie zostać chwilowo znokautowana); żółte, gdzie PvP jest dostępne, ale – podobnie jak poprzednio – nie możemy zginąć (agresywni gracze jedynie nas nokautują i płacą za to utratą reputacji); czerwone, gdzie PvP jest dostępne, a w wypadku śmierci cały nasz dobytek przepada (a agresor traci reputację); czarne, gdzie PvP jest nieograniczone w żaden z powyższych sposobów (tj. tracimy wszystko, a każdy może nas zaatakować i zabić bez uszczerbku na reputacji).</p>
-<img src="\obrazki\albion\gathering-zones-albion-online-gathering-guide.webp" height="400rem" width="">
-          <p class="is is-size-1"><br></p>
-          <p class="has-text-white is-size-1 ">Recenzje</p><br>
-          <img src="\obrazki\albion\recenzja.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja2.png" height="400rem" width="">
-          <img src="\obrazki\albion\recenzja3.png" height="400rem" width="">
-          <p class="has-text-white is-size-5">źródło:</p>
-          <a href="https://albiononline.com/home">https://albiononline.com/home</a><br>
-          <a href="https://www.gry-online.pl/S020.asp?ID=12177">https://www.gry-online.pl/S020.asp?ID=12177</a><br>
-        </div>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Inkscape</h1><br>
+        <p class="has-text-white is-size-4 has-text-weight-bold">
+        Darmowy program do edycji grafiki dla linuxa windowsa i macOS oferuje szeroką gamę narzędzi. Program oferuje też dużo formatów zapisu oprócz standardowego SVG który pozwala łatwo wkleić grafikę na stronę internetową, inne formaty to : 
+        AI,EPS,PDF,PNG.
+        </p><br>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Historia Programu</h1><br>
+        <p class="has-text-white is-size-4 has-text-weight-bold">Inkscape powstał 2 listopada 2003 roku jako część sodipodi project. Od 1999 roku inkspace był tworzony na podstawie aplikacji GNOME. Głównym celem programistów było to aby interfejs był przejrzysty i ułatwiający pracę.</p>
+        <br><h1>Narzędzia</h1>
+        <p class="has-text-white is-size-4 has-text-weight-bold">W inkscape mamy dużo przydatnych narzędzi. Od podstawowych takich jak kształty po bardziej zaawansowane. bardzo przydatne jest np zamienianie obiektu w ścieżkę co pozwala na dowolne manipulowanie stworzonym kształtem albo filtry które mogą zmienić nasz obiekt w liście skórę jaszczurki i inne super tekstury. Jest to tylko wierzchołek wszystkich możliwości i najlepiej samemu odkryć   
+        </p>
       </div>
 
+    </div>
     </div>
   </body>
 

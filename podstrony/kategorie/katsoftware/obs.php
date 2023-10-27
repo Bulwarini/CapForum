@@ -148,7 +148,7 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
 
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Albion Online</h1><br>
+        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">OBS Studio</h1><br>
         <p class="has-text-white is-size-4 has-text-weight-bold ">
           OBS studio, czyli (Open Broadcasting Software) jest programem do nagrywania i streamowania naszych poczynań w grach i innych aktywności, które możemy chcieć umieścić w Internecie. 
           Program na sam początek może wydawać się przytłaczający ma dużo opcji, które możemy nie do końca rozumieć.</p><br>
