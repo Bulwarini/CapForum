@@ -19,8 +19,11 @@ session_start();
     <link rel="icon" type="image/x-icon" href="/obrazki/capforum.ico">
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=5" type="text/css">
     <style>
-html, body {
-  overflow-x: hidden;  
+body {
+  background-image: url('/obrazki/czapkas.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style> 
   </head>
@@ -28,19 +31,26 @@ html, body {
 
   <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/nav-bar.php"; ?>
 
-    <div class="container" style="align-items: center;">
+  <div class="container" style="align-items: center;">
       <div class="is section is-large">
-        <div class="box has-background-black-ter is-rounded is-outlined">
-        <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Strona Główna</h1>
-        <p class="has-text-white is-size-4 ">Witaj na naszej stronie!!<br><br>
-          Nie ma może tutaj za wiele, ale życzymy miłego zwiedzania.<br><br>
-          Zapraszamy do zgłaszania wszelkich błędów w zakładce kontakt.</p>
-          <p class="has-text-white is-size-1 has-text-weight-bold">Pozdrawia administracja strony!</p>
-          <p class="is is-size-1"><br></p>
-        </div>
+	  <div class="is-flex is-flex-direction-column is-justify-content-center is-align-items-center">
+        <div class="box is-rounded is-outlined" style="background: rgba(20, 19, 19, 0.75)">
+        <h1 class="is-size-1 has-text-white has-text-centered has-text-weight-bold">Strona Główna</h1>
+        <p class="has-text-white is-size-4 ">CapForum, czyli newsy od czapy. Zapraszamy!<br><br><p>
+		<p class="is-size-3 has-text-white has-text-centered">Aktualnie popularne artykuły:</p>
+		
+		<a href="/podstrony/kategorie/katpor/Terraria"><img src="/obrazki/Terraria/TERRARIA.jpg" height="800vh" width="800"></a>
+		<br>
+        <a href="/podstrony/kategorie/katpor/Terraria"><p class="is-size-3 has-text-white has-text-centered">Poradnik do gry Terraria</p></a>
+		<p class="is-size-1"><br><br></p>
+		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz.php"><img src="/obrazki/jwst/prad_strumieniowy.webp"></a>
+		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz.php"><p class="is-size-3 has-text-white has-text-centered">Kosmiczny Teleskop Jamesa Webba bada Jowisza</p></a>
+		</div>
+		</div>
       </div>
 
     </div>
+
 
 
 

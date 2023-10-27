@@ -7,8 +7,11 @@
     <title>CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=5" type="text/css">
     <style>
-html, body {
-  overflow-x: hidden;  
+body {
+  background-image: url('/obrazki/jwst/kosmo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style> 
   </head>
@@ -18,7 +21,7 @@ html, body {
   
                <div class="container">
       <div class="is section is-large">
-        <div class="box has-background-black-ter is-rounded is-outlined">
+        <div class="box is-rounded is-outlined" style=" background: rgba(20, 19, 19, 0.85)">
         <div class="is-flex is-flex-direction-column is-justify-content-center is-align-items-center">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Kosmiczny Teleskop Jamesa Webba bada Jowisza</h1><br>
           <p class="has-text-white is-size-4 has-text-justified">JWST odkrył nowe, wcześniej niezaobserwowane zjawisko w atmosferze Jowisza.
