@@ -1,11 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
-.footer {
-  background-color: $primary;
-  padding: 3rem 1.5rem 3rem; }
-
 /* Bulma Base */
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
 html,
 body,
 p,
@@ -7113,8 +7109,8 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
         padding: 8rem -2rem; } }
 
 .footer {
-    background-color: $primary;
-    padding: 3rem 1.5rem 3rem; }
+  background-color: #292929;
+  padding: 3rem 1.5rem 3rem; }
 
 /* Bulma Utilities */
 .pagination-previous,
