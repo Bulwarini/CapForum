@@ -17,7 +17,7 @@ session_start();
      crossorigin="anonymous"></script>
     <title>CapForum</title>
     <link rel="icon" type="image/x-icon" href="/obrazki/capforum.ico">
-    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstylev2.css" type="text/css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=2" type="text/css">
     <style>
 html, body {
   overflow-x: hidden;  
