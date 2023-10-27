@@ -44,7 +44,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
      crossorigin="anonymous"></script>
     <title>Wydarzenia na Świecie - CapForum</title>
-    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstylev2.css" type="text/css">
     <style>
 html, body {
   overflow-x: hidden;  
