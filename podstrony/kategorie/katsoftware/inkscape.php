@@ -154,8 +154,8 @@ $navbarBurgers.forEach( el => {
         AI,EPS,PDF,PNG.
         </p><br>
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Historia Programu</h1><br>
-        <p class="has-text-white is-size-4 has-text-weight-bold">Inkscape powstał 2 listopada 2003 roku jako część sodipodi project. Od 1999 roku inkspace był tworzony na podstawie aplikacji GNOME. Głównym celem programistów było to aby interfejs był przejrzysty i ułatwiający pracę.</p>
-        <br><h1>Narzędzia</h1>
+        <p class="has-text-white is-size-4 has-text-weight-bold">Inkscape powstał 2 listopada 2003 roku jako część sodipodi project. Od 1999 roku inkspace był tworzony na podstawie aplikacji GNOME. Głównym celem programistów było to aby interfejs był przejrzysty i ułatwiający pracę.</p><br>
+        <h1>Narzędzia</h1>
         <p class="has-text-white is-size-4 has-text-weight-bold">W inkscape mamy dużo przydatnych narzędzi. Od podstawowych takich jak kształty po bardziej zaawansowane. bardzo przydatne jest np zamienianie obiektu w ścieżkę co pozwala na dowolne manipulowanie stworzonym kształtem albo filtry które mogą zmienić nasz obiekt w liście skórę jaszczurki i inne super tekstury. Jest to tylko wierzchołek wszystkich możliwości i najlepiej samemu odkryć   
         </p>
       </div>
