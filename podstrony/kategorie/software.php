@@ -151,19 +151,15 @@ $navbarBurgers.forEach( el => {
 
     <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katsoftware/obs.php"><figure class="image is-128x128"><img src="/obrazki/obs/obs.png">
       </figure></a>
-      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Europa.php">OBS</a>
+      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katsoftware/obs.php">OBS</a>
       </div>
     </div> <br>
     
-      <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katwyd/JWST_Jowisz.php"><figure class="image is-128x128"><img src="/obrazki/jwst/Jowisz.webp">
+    <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katsoftware/inkscape.php"><figure class="image is-128x128"><img src="/obrazki/obs/inkscape.png">
       </figure></a>
-      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Jowisz.php">Kosmiczny Teleskop Jamesa Webba bada Jowisza</a></div>
-      </div><br>
+      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katsoftware/inkscape.php">Inkspace</a></div>
+    </div><br>
 
-      <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katwyd/JWST_Enceladus.php"><figure class="image is-128x128"><img src="/obrazki/jwst/Enceladus1.jpg">
-      </figure></a>
-      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Enceladus.php">Webb ujawnia zaskakująco duży gejzer tryskający z księżyca Saturna, Enceladusa</a></div>
-      </div><br>
 
     </div>
     </div>
