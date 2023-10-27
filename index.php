@@ -61,7 +61,6 @@ $navbarBurgers.forEach( el => {
             <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
-            <a> Witaj, <?php echo $user_data['user_name']; ?> </a>
            </div>
         </div>
       </div>

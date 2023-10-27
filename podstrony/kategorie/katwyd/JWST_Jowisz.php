@@ -16,41 +16,40 @@
         <script>
       document.addEventListener('DOMContentLoaded', () => {
 
-            // Get all "navbar-burger" elements
-            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+// Get all "navbar-burger" elements
+const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
-            // Add a click event on each of them
-            $navbarBurgers.forEach( el => {
-              el.addEventListener('click', () => {
+// Add a click event on each of them
+$navbarBurgers.forEach( el => {
+  el.addEventListener('click', () => {
 
-                // Get the target from the "data-target" attribute
-                const target = el.dataset.target;
-                const $target = document.getElementById(target);
+    // Get the target from the "data-target" attribute
+    const target = el.dataset.target;
+    const $target = document.getElementById(target);
 
-                // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-                el.classList.toggle('is-active');
-                $target.classList.toggle('is-active');
+    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+    el.classList.toggle('is-active');
+    $target.classList.toggle('is-active');
 
-              });
-            });
+  });
+});
 
-            });
+});
     </script>
-   
 
-      <div class="contrainer is-flex is-hidden-desktop is-hidden-tablet">
+      <div class="contrainer is-flex is-hidden-desktop">
 
       <div class="navbar-end">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
-            </div>
+           </div>
         </div>
       </div>
 
@@ -63,7 +62,7 @@
         </div>  
 
       </div>
-      <div id="navbarBasicExample" class="navbar-menu has-background-primary">
+<div id="navbarBasicExample" class="navbar-menu has-background-primary">
 
 <div class="navbar-start">
 
@@ -105,21 +104,37 @@
    Informacje i Kontakt
   </a>
 </div>
+<div class="contrainer is-flex">
+
+<div class="navbar-end">
+  <div class="navbar-item is-flex">
+
+    <div class="buttons is-marginless is-justify-items-center">
+      <a class="button is-primary is-marginless" href="/register">
+        <strong>Zarejestruj się</strong>
+      </a>
+      <a class="button is-light is-marginless" href="/login">
+        Zaloguj się
+      </a>
+      </div>
+  </div>
 </div>
-<div class="navbar-end is-hidden-mobile">
+</div>
+
+<div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
             </div>
         </div>
       </div>
-
+</div>
     </nav>
                <div class="container">
       <div class="is section is-large">

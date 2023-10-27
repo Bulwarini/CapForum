@@ -38,7 +38,6 @@ $navbarBurgers.forEach( el => {
 
 });
     </script>
-   
 
       <div class="contrainer is-flex is-hidden-desktop">
 
@@ -46,13 +45,13 @@ $navbarBurgers.forEach( el => {
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
-            </div>
+           </div>
         </div>
       </div>
 
@@ -65,7 +64,7 @@ $navbarBurgers.forEach( el => {
         </div>  
 
       </div>
-      <div id="navbarBasicExample" class="navbar-menu has-background-primary">
+<div id="navbarBasicExample" class="navbar-menu has-background-primary">
 
 <div class="navbar-start">
 
@@ -107,21 +106,37 @@ $navbarBurgers.forEach( el => {
    Informacje i Kontakt
   </a>
 </div>
+<div class="contrainer is-flex">
+
+<div class="navbar-end">
+  <div class="navbar-item is-flex">
+
+    <div class="buttons is-marginless is-justify-items-center">
+      <a class="button is-primary is-marginless" href="/register">
+        <strong>Zarejestruj się</strong>
+      </a>
+      <a class="button is-light is-marginless" href="/login">
+        Zaloguj się
+      </a>
+      </div>
+  </div>
 </div>
+</div>
+
 <div class="navbar-end is-hidden-mobile is-hidden-tablet">
         <div class="navbar-item is-flex">
 
           <div class="buttons is-marginless is-justify-items-center">
-            <a class="button is-primary is-marginless" href="/podstrony/konto/register">
+            <a class="button is-primary is-marginless" href="/register">
               <strong>Zarejestruj się</strong>
             </a>
-            <a class="button is-light is-marginless" href="/podstrony/konto/login">
+            <a class="button is-light is-marginless" href="/login">
               Zaloguj się
             </a>
             </div>
         </div>
       </div>
-
+</div>
     </nav>
 
     <div class="container" style="align-items: center;">
@@ -129,7 +144,7 @@ $navbarBurgers.forEach( el => {
     <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Wydarzenia na świecie</h1><br><h1 class="is title has-text-centered has-text-weight-bold is-size-4" style="color: red;" >Artykuły:</h1>
 
-    <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katsoftware/obs.php"><figure class="image is-128x128"><img src="obrazki/obs/obs.png">
+    <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/katsoftware/obs.php"><figure class="image is-128x128"><img src="/obrazki/obs/obs.png">
       </figure></a>
       <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/katwyd/JWST_Europa.php">OBS</a>
       </div>
