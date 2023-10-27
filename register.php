@@ -45,7 +45,7 @@ session_start();
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
      crossorigin="anonymous"></script>
     <title>Wydarzenia na Świecie - CapForum</title>
-    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=4" type="text/css">
+    <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css?v=5" type="text/css">
     <style>
 html, body {
   overflow-x: hidden;  
