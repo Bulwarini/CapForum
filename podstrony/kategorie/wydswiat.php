@@ -15,6 +15,7 @@ html, body {
 </style> 
   </head>
   <body>
+  <body>
     
   <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/nav-bar.php"; ?>
 
@@ -47,6 +48,7 @@ html, body {
 
 
   </body>
-  <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/stopka.php"; ?>
 
+  <?php include_once $_SERVER['DOCUMENT_ROOT'] . "/szablon/stopka.php"; ?>
+ </body>
 </html>
