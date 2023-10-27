@@ -157,9 +157,18 @@ $navbarBurgers.forEach( el => {
           <p class="is is-size-1"><br></p>
         </div>
       </div>
-
+      </div>
+    </div>
+    </div>
     </div>
   </body>
 
-
+  <footer class="footer is-primary"  style="position: fixed;left: 0;bottom: 0;width: 100%;">
+  <div class="content has-text-centered">
+    <p class="has-text-white">
+      <strong class="has-text-white">CapForum</strong> by CapForumTeam.
+      <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatnośći.</a>
+    </p>
+  </div>
+</footer>
 </html>

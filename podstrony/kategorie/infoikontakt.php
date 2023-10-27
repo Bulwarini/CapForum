@@ -147,16 +147,33 @@ $navbarBurgers.forEach( el => {
       <div class="is section is-large">
         <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Coś o nas</h1>
-        <p class="has-text-white is-size-4 ">Robimy te stronę z czystego przymusu google daj reklamy plz<br><br>
-          plz<br><br>
-          plz</p>
+        <p class="has-text-white is-size-4 ">Robimy te stronę z czystej pasji. Dlatego prosimy, o wyrozumiałość i zgłasznie błędów na mail:
+          11m.maslak@gmail.com<br><br>
           <p class="has-text-white is-size-1 has-text-weight-bold">Pozdrawia administracja strony!</p>
           <p class="is is-size-1"><br></p>
-          <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatności</a>
         </div>
       </div>
 
     </div>
+
+    <footer class="footer is-primary"  style="position: fixed;left: 0;bottom: 0;width: 100%;">
+  <div class="content has-text-centered">
+    <p class="has-text-white">
+      <strong class="has-text-white">CapForum</strong> by CapForumTeam.
+      <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatnośći.</a>
+    </p>
+  </div>
+</footer>
+
+
+<footer class="footer is-primary"  style="position: fixed;left: 0;bottom: 0;width: 100%;">
+  <div class="content has-text-centered">
+    <p class="has-text-white">
+      <strong class="has-text-white">CapForum</strong> by CapForumTeam.
+      <a href="/podstrony/politykaprywatnosci.php">Polityka Prywatnośći.</a>
+    </p>
+  </div>
+</footer>
   </body>
 
 
