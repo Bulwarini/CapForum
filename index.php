@@ -36,7 +36,7 @@ body {
 	  <div class="is-flex is-flex-direction-column is-justify-content-center is-align-items-center">
         <div class="box is-rounded is-outlined" style="background: rgba(20, 19, 19, 0.75)">
         <h1 class="is-size-1 has-text-white has-text-centered has-text-weight-bold">Strona Główna</h1>
-        <p class="has-text-white is-size-4 ">CapForum, czyli newsy od czapy. Zapraszamy!<br><br><p>
+        <p class="has-text-white is-size-4 has-text-centered">CapForum, czyli newsy od czapy. Zapraszamy!<br><br><p>
 		<p class="is-size-3 has-text-white has-text-centered">Aktualnie popularne artykuły:</p>
 		
 		<a href="/podstrony/kategorie/katpor/Terraria"><img src="/obrazki/Terraria/TERRARIA.jpg" height="800vh" width="800"></a>
