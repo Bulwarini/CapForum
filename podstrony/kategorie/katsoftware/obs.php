@@ -8,6 +8,11 @@
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518890929804230"
      crossorigin="anonymous"></script>
+     <style>
+html, body {
+  overflow-x: hidden;  
+}
+</style> 
   </head>
   <body>
     

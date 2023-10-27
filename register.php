@@ -46,6 +46,11 @@ session_start();
      crossorigin="anonymous"></script>
     <title>Wydarzenia na Świecie - CapForum</title>
     <link rel="stylesheet" href="/mybulma/css/customstyle.css/customstyle.css">
+    <style>
+html, body {
+  overflow-x: hidden;  
+}
+</style> 
   </head>
   <body>
     
