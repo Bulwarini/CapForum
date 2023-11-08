@@ -43,8 +43,8 @@ body {
 		<br>
         <a href="/podstrony/kategorie/katpor/Terraria"><p class="is-size-3 has-text-white has-text-centered">Poradnik do gry Terraria</p></a>
 		<p class="is-size-1"><br><br></p>
-		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz.php"><img src="/obrazki/jwst/prad_strumieniowy.webp"></a>
-		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz.php"><p class="is-size-3 has-text-white has-text-centered">Kosmiczny Teleskop Jamesa Webba bada Jowisza</p></a>
+		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz"><img src="/obrazki/jwst/prad_strumieniowy.webp"></a>
+		<a href="/podstrony/kategorie/katwyd/JWST_Jowisz"><p class="is-size-3 has-text-white has-text-centered">Kosmiczny Teleskop Jamesa Webba bada Jowisza</p></a>
 		</div>
 		</div>
       </div>

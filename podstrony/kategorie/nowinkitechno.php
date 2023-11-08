@@ -18,9 +18,9 @@
     <div class="box has-background-black-ter is-rounded is-outlined">
         <h1 class="is title has-text-white has-text-centered has-text-weight-bold">Nowinki Technologiczne</h1><br><h1 class="is title has-text-centered has-text-weight-bold is-size-4" style="color: red;" >Artykuły:</h1>
 
-    <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/kattech/14thgenintel.php"><figure class="image is-128x128"><img src="/obrazki/14thgen/14th.jpg">
+    <div class="is-flex is-flex-direction-row"><a href="/podstrony/kategorie/kattech/14thgenintel"><figure class="image is-128x128"><img src="/obrazki/14thgen/14th.jpg">
       </figure></a>
-      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/kattech/14thgenintel.php">Nowe procesory Intela 14 generacji będą dostępne 17 października z aż 6 GHz zegarem.</a>
+      <div class="has-text-white is-size-4"><a class="has-text-white" href="/podstrony/kategorie/kattech/14thgenintel">Nowe procesory Intela 14 generacji będą dostępne 17 października z aż 6 GHz zegarem.</a>
       </div>
     </div> <br>
 
