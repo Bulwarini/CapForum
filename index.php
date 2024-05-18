@@ -1,12 +1,3 @@
-<?php
-header('Content-type: text/html; charset=utf-8');
-session_start();
-
-        include('connections.php');
-        include('functions.php');
-      
-        $user_data = check_login($con);
-?>
 <!DOCTYPE html>
 <html>
   <head>
